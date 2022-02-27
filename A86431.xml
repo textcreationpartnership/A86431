@@ -1,0 +1,1286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A special help to orthographie: or, The true-vvriting of English. Consisting of such words as are alike in sound, and unlike both in their signification and writing: As also, of such words vvhich are so neer alike in sound, that they are sometimes taken one for another. Whereunto are added diverse orthographical observations, very needfull to be known. / Publisht by Richard Hodges, a school-master, dwelling in Southwark, at the Midle-gate within Mountague-close, for the benefit of all such as do affect true-writing.</title>
+            <author>Hodges, Richard, School-Master.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86431</idno>
+            <idno type="STC">Wing H2313</idno>
+            <idno type="STC">Thomason E35_9</idno>
+            <idno type="STC">ESTC R11996</idno>
+            <idno type="EEBO-CITATION">99859182</idno>
+            <idno type="PROQUEST">99859182</idno>
+            <idno type="VID">111249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111249)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E35[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A special help to orthographie: or, The true-vvriting of English. Consisting of such words as are alike in sound, and unlike both in their signification and writing: As also, of such words vvhich are so neer alike in sound, that they are sometimes taken one for another. Whereunto are added diverse orthographical observations, very needfull to be known. / Publisht by Richard Hodges, a school-master, dwelling in Southwark, at the Midle-gate within Mountague-close, for the benefit of all such as do affect true-writing.</title>
+                  <author>Hodges, Richard, School-Master.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 2nd".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English language --  Orthography and spelling --  Early works to 1800.</term>
+               <term>English language --  Pronunciation --  Early works to 1800.</term>
+               <term>English language --  Homonyms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111249:1" rendition="simple:additions"/>
+            <p>A SPECIAL HELP TO ORTHOGRAPHIE: OR, The True-writing of English.</p>
+            <p>Conſiſting of ſuch Words as are alike in ſound, and unlike both in their ſignifi<g ref="char:EOLhyphen"/>cation and Writing:</p>
+            <p>As alſo, Of ſuch Words which are ſo neer alike in ſound, that they are ſometimes taken one for another.</p>
+            <p>Whereunto are added diverſe Orthographical ob<g ref="char:EOLhyphen"/>ſervations, very needfull to be known.</p>
+            <p>
+               <hi>Publiſht by</hi> RICHARD HODGES, <hi>a School-Maſter, dwel<g ref="char:EOLhyphen"/>ling in</hi> Southwark, <hi>at the Midle-gate within Mountague<g ref="char:EOLhyphen"/>cloſe, for the benefit of all ſuch as do affect</hi> TRUE-WRITING.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Cotes.</hi> 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111249:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving duly conſidered <hi>(Courteous Reader)</hi> with what great difficulty, the True-writing of <hi>Engliſh</hi> is attained, and withall perceiving the cauſes thereof, I have for many yeares together, taken no litle pains, to ſhew how they may be taken away; and having now finiſht the Work, my deſire is, that every one whom it concerns, may receive benefit thereby A piece whereof (not one of the leaſt) J do heer preſent unto thee; by giving thee a ſight of ſuch words, <hi>as are alike in ſound, and unlike both in their ſignification and writing: as alſo of ſuch words, which are ſo neer alike in ſound, that they are ſometimes taken one for another:</hi> all which words (of either kinde) are ſo plainly diſtinguiſht, by different Letters, in al the examples, that they may be wel known the one from the other. Whereunto J have added many needful obſervations, for a farther help to True-writing: which if (with the reſt) they finde acceptance, J ſhal be incourag'd yer long, to publiſh the reſt of the Work, (that is in part of another kinde) which concerns not onely True-writing, but alſo, to ſhew ſuch an eaſy and ſpeedy way, for the True-pronouncing and Reading of
+<pb facs="tcp:111249:3"/>
+               <hi>Engliſh</hi> (which wil be ſo exceedingly uſeful, both to our own Na<g ref="char:EOLhyphen"/>tion and Strangers) as the like hath never yet bin publiſht. In the mean time, commending this which J have now done, with all my former labours, to the Bleſsing of God, and thy favourable accepta<g ref="char:EOLhyphen"/>tion, I reſt</p>
+            <closer>
+               <signed>Thine (as thou giv'ſt me any incourage<g ref="char:EOLhyphen"/>ment) to do thee farther ſervice, RICHARD HODGES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111249:3"/>
+            <head>A SPECIAL HELP TO ORTHOGRAPHIE.</head>
+            <div type="part">
+               <head>Such words as are alike in ſound, and unlike both in their ſignification and writing, are expreſt by different Letters, in theſe examples following.</head>
+               <list>
+                  <head>A.</head>
+                  <item>TO <hi>aſſent</hi> or agree. An <hi>aſcent</hi> or going up. <hi>A ſent</hi> or ſavour.</item>
+                  <item>
+                     <hi>A peece</hi> to ſhoot withall. <hi>A piece</hi> of bread. Two loaves <hi>apiece.</hi>
+                  </item>
+                  <item>Let him that hath <hi>a loud</hi> voyce, be <hi>allow'd</hi> to ſpeake <hi>aloud.</hi>
+                  </item>
+                  <item>I have not received <hi>aught</hi> thereof. You <hi>ought</hi> not to doe it.</item>
+                  <item>The <hi>air</hi> is cleer. The <hi>heir</hi> of all his goods.</item>
+                  <item>He ſhot <hi>an arrow,</hi> into <hi>a narrow</hi> place.</item>
+                  <item>
+                     <hi>An eye</hi> to ſee withal. <hi>A nigh</hi> or neer kinſman. <hi>An I</hi> and a U will either of them make a ſyllable alone.</item>
+                  <item>Take <hi>a note</hi> of it. Take <hi>an oat</hi>-cake for your ſupper.</item>
+                  <item>
+                     <hi>A notion</hi> or an inward knowledg. <hi>An ocean</hi> of water.</item>
+                  <item>To tithe Mint and <hi>Anniſe. Agnes,</hi> a womans Chriſten name.</item>
+                  <item>
+                     <hi>An</hi> idle perſon ought not to eate. <hi>Anne,</hi> a womans Chriſten name.</item>
+                  <item>
+                     <hi>Alas,</hi> that ever I did it! <hi>A laſſe,</hi> or a Maid.</item>
+                  <item>An <hi>altar</hi> for ſacrifice. To <hi>alter</hi> ones minde.</item>
+                  <item>
+                     <hi>A ledge</hi> of a Table. <hi>Alledge</hi> what thou canſt againſt me.</item>
+                  <item>
+                     <hi>A lie,</hi> or a falſe ſpeech. My neer <hi>allie,</hi> or kinſman.</item>
+                  <item>
+                     <hi>A light</hi> in a darke place. <hi>Alight</hi> from thy horſe.</item>
+                  <item>To caſt <hi>a lot.</hi> To <hi>allot,</hi> or appoint for ones ſhare.</item>
+                  <item>
+                     <hi>A loan,</hi> or lending of money. Why doe you ſit <hi>alone?</hi>
+                  </item>
+                  <item>
+                     <hi>A lure</hi> for a Hawk. To <hi>allure</hi> or intice.</item>
+                  <item>
+                     <hi>Adieu,</hi> or farewel. <hi>A due</hi> debt ought to be paid.</item>
+                  <item>
+                     <pb n="2" facs="tcp:111249:4"/>He <hi>adjoyn'd</hi> me to do it. <hi>A joyn'd</hi>-ſtool.</item>
+                  <item>
+                     <hi>A Judge</hi> of a Court. <hi>Adjudge</hi> him to be worthy of it.</item>
+                  <item>
+                     <hi>Aſſoon</hi> as ſhe came in, ſhe fell into <hi>a ſwoun.</hi>
+                  </item>
+                  <item>That which the Shoomaker got with his <hi>awl,</hi> he ſpent it <hi>al, (all)</hi>
+                  </item>
+                  <item>To <hi>aſſault</hi> or ſet upon. <hi>A ſalt</hi>-eel.</item>
+                  <item>To <hi>aſſigne.</hi> To give <hi>a ſigne.</hi>
+                  </item>
+                  <item>
+                     <hi>Attainted</hi> of treaſon. <hi>A tainted</hi> piece of fleſh.</item>
+                  <item>Shee was ſumptuouſly <hi>attired. A tired</hi> Jade.</item>
+                  <item>
+                     <hi>A mate</hi> or companion. To <hi>amate</hi> or daunt.</item>
+                  <item>
+                     <hi>A maze,</hi> or an intricate way, or labyrinth. To <hi>amaze.</hi>
+                  </item>
+                  <item>
+                     <hi>A reſt</hi> for a Muſquet. <hi>Arrest</hi> him for the debt.</item>
+                  <item>
+                     <hi>A peaſe</hi> bloſſom. <hi>Appeaſe</hi> his wrath.</item>
+                  <item>
+                     <hi>A peal</hi> well rung. <hi>Appeal</hi> to <hi>Ceſar.</hi>
+                  </item>
+                  <item>
+                     <hi>A tract,</hi> or diſcourſe. <hi>Attract</hi> the iron with the load-ſtone.</item>
+                  <item>An <hi>abbetter,</hi> or upholder. <hi>A better</hi> colour than the other.</item>
+                  <item>
+                     <hi>Appear</hi> the next Court-day. <hi>A Peer</hi> of the Realm.</item>
+                  <item>
+                     <hi>A wait</hi>-player. <hi>A wait</hi> his comming. <hi>A weight</hi> to weigh withal.</item>
+                  <item>Tread not <hi>awry. A wry</hi>-mouthed Plaiſe.</item>
+                  <item>Such <hi>a queint</hi> diſcourſe, as I ſhall <hi>acquaint</hi> you withall.</item>
+               </list>
+               <list>
+                  <head>B.</head>
+                  <item>To <hi>bow</hi> the knee. The <hi>bough</hi> of a tree.</item>
+                  <item>If you <hi>be comne</hi> ſo ſoone to work, it wil alſo <hi>become</hi> you to be diligent therein.</item>
+                  <item>The <hi>boughs</hi> of trees. He <hi>boweth</hi> his knees. To <hi>bowze</hi> or tiple (tipple)</item>
+                  <item>The ſweat of his <hi>brows.</hi> The bullock did <hi>browze.</hi>
+                  </item>
+                  <item>
+                     <hi>Barbarie,</hi> a Countrey ſo call'd. <hi>Barbara,</hi> a womans Chriſten name. <hi>Barberie,</hi> a red fruit ſo call'd.</item>
+                  <item>
+                     <hi>Brute,</hi> a mans name. A <hi>brute</hi> beaſt. A <hi>bruit,</hi> or report.</item>
+                  <item>To <hi>baul,</hi> or to make a rude noiſe in ſpeaking. <hi>Baal,</hi> an idol ſo call'd. A <hi>bal</hi> to play with. <hi>Bal,</hi> a mans name <hi>(Ball, ball)</hi>
+                  </item>
+                  <item>Good and <hi>bad.</hi> Who <hi>bade</hi> him doe it?</item>
+                  <item>A <hi>bead. Bede,</hi> a mans name.</item>
+                  <item>A <hi>beaker</hi> to drinke in. <hi>Becher,</hi> one of the ſons of <hi>Benjamin.</hi> The hawk did <hi>beak her</hi> ſelf.</item>
+                  <item>Ale and <hi>beer.</hi> A <hi>biere</hi> to cary a dead corpſe.</item>
+                  <item>A Straw-<hi>berie.</hi> Sud-<hi>bury,</hi> Canter-<hi>bury, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>By</hi> whoſe authority was it done? <hi>Buy</hi> it for me in the Market.</item>
+                  <item>Set meat on the <hi>board.</hi> Let the hole be <hi>bor'd.</hi>
+                  </item>
+                  <item>The bird was <hi>bill'd</hi> like a hawk. To <hi>build</hi> a houſe.</item>
+                  <item>To <hi>bolt</hi> the door. To <hi>boult,</hi> or ſift meal.</item>
+                  <item>To be wel <hi>bred,</hi> or brought up. To earn his owne <hi>bread.</hi>
+                  </item>
+                  <item>
+                     <pb n="3" facs="tcp:111249:4"/>He was weary in <hi>beholding</hi> of it. You are much <hi>beholden</hi> to him.</item>
+                  <item>A Coney-<hi>burrow.</hi> The <hi>Borough</hi> of Southwark.</item>
+                  <item>Coney-<hi>Burrows. Boroughs</hi> or Towns.</item>
+                  <item>A <hi>blue</hi>-colour. The wind <hi>blew</hi> it away.</item>
+               </list>
+               <list>
+                  <head>C.</head>
+                  <item>
+                     <hi>Cox,</hi> a mans ſirname. <hi>Cocks</hi> and Hens. <hi>Cocketh</hi> up the hay.</item>
+                  <item>A <hi>coat</hi> of diverſe colours. A ſheep-<hi>cote.</hi> To <hi>quote</hi> a place of Scripture.</item>
+                  <item>
+                     <hi>Cotes,</hi> a mans name. Childrens <hi>coats.</hi> He <hi>quoteth</hi> the place.</item>
+                  <item>The <hi>clauſe</hi> of a ſentence. The bird <hi>claweth</hi> him with her <hi>claws.</hi>
+                  </item>
+                  <item>The Butcher did <hi>cal,</hi> for the <hi>caul</hi> of the liver. <hi>(call)</hi>
+                  </item>
+                  <item>Take your <hi>courſe.</hi> Let them bury the <hi>corpſe.</hi>
+                  </item>
+                  <item>To take good <hi>courſes.</hi> He <hi>courſeth</hi> his horſe. Dead <hi>corpſes.</hi>
+                  </item>
+                  <item>I <hi>cool'd</hi> his courage. I <hi>could</hi> not doe it.</item>
+                  <item>The <hi>collar</hi> of a coat. I wil cool your <hi>choler.</hi>
+                  </item>
+                  <item>A <hi>culler</hi> of Apples. A <hi>colour,</hi> died in grain.</item>
+                  <item>A <hi>couſin</hi> or neer kinſman, will ſometimes <hi>cozen</hi> his neer kinred.</item>
+                  <item>The Kings <hi>Council.</hi> Give him good <hi>counſel.</hi>
+                  </item>
+                  <item>It is a <hi>common</hi> thing for men, to <hi>commune</hi> or talk one with another.</item>
+                  <item>The Wheat is ful of <hi>cockle</hi> and darnel. A <hi>cochle</hi>-ſhel.</item>
+                  <item>He behaved himſelf like a valiant <hi>Champion,</hi> in the <hi>champain</hi> field.</item>
+                  <item>To <hi>chooſe</hi> a fit companion. The Ox <hi>cheweth</hi> the cud.</item>
+                  <item>A wicked <hi>crue</hi> or company. The cock <hi>crew.</hi>
+                  </item>
+                  <item>The hounds did <hi>chaſe</hi> the Deer, which were in the <hi>Chace.</hi>
+                  </item>
+                  <item>You <hi>come</hi> but now, but he is <hi>comne</hi> already.</item>
+                  <item>Wicked <hi>crues</hi> or companies. A <hi>cruſe</hi> or pot to drink in.</item>
+                  <item>A <hi>cruel</hi> maſter to his ſervants. A cap wrought with <hi>crewel.</hi>
+                  </item>
+                  <item>He gave his <hi>conſent,</hi> to have a <hi>concent</hi> of muſick.</item>
+               </list>
+               <list>
+                  <head>D.</head>
+                  <item>The young birds ſit under their <hi>dam.</hi> To <hi>damne</hi> or condemne.</item>
+                  <item>A fallow-<hi>deer.</hi> A <hi>dear</hi> friend.</item>
+                  <item>A <hi>deep</hi> pit or hole. <hi>Diep,</hi> a town ſo call'd.</item>
+                  <item>There are <hi>diverſe</hi> men which are skilful <hi>divers.</hi>
+                  </item>
+                  <item>A buck and a <hi>doe.</hi> His cake is <hi>dough.</hi>
+                  </item>
+                  <item>Concerning the word <hi>deſcenſion,</hi> there hath beene much <hi>diſſenſion.</hi>
+                  </item>
+                  <item>It is not worth a <hi>dollar.</hi> Ful of <hi>dolour</hi> and griefe.</item>
+                  <item>There is a fiſh that is call'd a <hi>dolphin.</hi> The <hi>Daulphine</hi> of <hi>France.</hi>
+                  </item>
+                  <item>Who was the <hi>deviſer</hi> of this, to multiply the quotient by the <hi>diviſour?</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>E.</head>
+                  <item>
+                     <hi>Eaſter</hi> and Whitſontide. Queen <hi>Heſter</hi> and Mordecai.</item>
+                  <item>John <hi>Eaton</hi> hath <hi>eaten</hi> up all the meat. A Scholar of <hi>Aeton.</hi>
+                  </item>
+                  <item>
+                     <pb n="4" facs="tcp:111249:5"/>There were <hi>eight</hi> ſwans egs found in the <hi>ait. (iſlet)</hi>
+                  </item>
+                  <item>Canſt thou <hi>earn</hi> thy bread? His bowels did <hi>yern.</hi>
+                  </item>
+                  <item>
+                     <hi>Emerods,</hi> a kinde of diſeaſe. <hi>Emeralds,</hi> a kinde of precious ſtone.</item>
+                  <item>He doth <hi>exerciſe</hi> himſelfe in reading. To <hi>exerciſe</hi> or adjure.</item>
+                  <item>I <hi>eat</hi> my meat to day, better than I <hi>ate</hi> it yeſterday.</item>
+               </list>
+               <list>
+                  <head>F.</head>
+                  <item>The cattel did <hi>feed.</hi> His Atturney was <hi>fee'd.</hi>
+                  </item>
+                  <item>Pay your <hi>fees.</hi> She <hi>feeth</hi> her Atturney.</item>
+                  <item>I would <hi>fain</hi> finiſh my worke. She did <hi>feign</hi> her ſelf ſick.</item>
+                  <item>They did <hi>finde</hi> much gold. They were <hi>fin'd</hi> very much.</item>
+                  <item>Their naves and their <hi>felloes,</hi> were not <hi>fellows.</hi>
+                  </item>
+                  <item>Take heed leſt <hi>Philip</hi> give you a <hi>fillip.</hi>
+                  </item>
+                  <item>Put the ſheep into the <hi>fold,</hi> when the Mare hath <hi>foal'd.</hi>
+                  </item>
+                  <item>I <hi>fore</hi>-tel this unto thee, that I wil reſtore him <hi>four</hi>-fold.</item>
+                  <item>To ſet <hi>forth</hi> a mans praiſe, to the <hi>fourth</hi> degree.</item>
+                  <item>Heate the oven with <hi>furze.</hi> He <hi>furreth</hi> his gown rich with <hi>furs.</hi>
+                  </item>
+                  <item>Our hearts are very <hi>foul.</hi> Fiſh and <hi>fowl.</hi>
+                  </item>
+                  <item>His ſon <hi>Francis</hi> and his daughter <hi>Frances</hi> came to ſee him.</item>
+                  <item>If it <hi>freeze,</hi> put on your <hi>frieſe</hi>-jerkin. Shee <hi>freeth</hi> him from danger.</item>
+                  <item>To kil a <hi>flea.</hi> To <hi>flay</hi> of the skin. (off)</item>
+                  <item>Lice and <hi>fleas.</hi> She <hi>fleaeth</hi> her cloaths. She <hi>flayeth</hi> the Rabbet.</item>
+                  <item>To <hi>fleer</hi> and laugh. A <hi>flee'r</hi> away in battel.</item>
+                  <item>A ſweet ſmelling <hi>flour.</hi> The fineſt wheat <hi>flower.</hi>
+                  </item>
+                  <item>Sweet ſmelling <hi>flours.</hi> The beer <hi>floureth</hi> in the cup.</item>
+               </list>
+               <list>
+                  <head>G.</head>
+                  <item>I <hi>gueſt,</hi> that he would be a very welcome <hi>gheſt.</hi>
+                  </item>
+                  <item>A <hi>ghoſt</hi> or ſpirit. Thou <hi>go'ſt</hi> but lamely.</item>
+                  <item>Some take delight in their fooliſh <hi>jeſts. Geſts</hi> or worthy acts. He <hi>jeſteth,</hi> and taketh delight in fooliſh jeſting.</item>
+                  <item>Ox-<hi>gals.</hi> The <hi>gauls</hi> upon the horſes back. He <hi>gauleth</hi> his horſe.</item>
+                  <item>A <hi>gage</hi> or pledge. To <hi>gawge</hi> a veſſel.</item>
+                  <item>A <hi>gilt</hi>-cup. The <hi>guilt</hi> of ſin troubleth the conſcience.</item>
+                  <item>She did ſigh and <hi>groan</hi> becauſe her corn was not wel-<hi>growen.</hi>
+                  </item>
+                  <item>To <hi>gliſter</hi> like gold. The Phyſician hath preſcribed a <hi>clyſter.</hi>
+                  </item>
+                  <item>A <hi>guiſe</hi> or faſhion. Mr. <hi>Guy's</hi> man told me of it.</item>
+               </list>
+               <list>
+                  <head>H.</head>
+                  <item>
+                     <hi>Hart,</hi> a mans name, or the name of a beaſt. Mans <hi>heart</hi> is deceitful.</item>
+                  <item>A <hi>hard</hi> heart muſt be broken. I <hi>heard</hi> his voyce.</item>
+                  <item>The hounds do hunt the <hi>hare.</hi> Men are forbidden to wear long <hi>hair.</hi>
+                  </item>
+                  <item>
+                     <hi>Hie</hi> thee home. <hi>High</hi> and low. <hi>Heigh</hi>-ho.</item>
+                  <item>
+                     <pb n="5" facs="tcp:111249:5"/>Thou <hi>hieſt</hi> thee about thy work. The <hi>higheſt</hi> fourm in the School.</item>
+                  <item>
+                     <hi>Hide</hi> not thy talent. Shee <hi>hied</hi> her about her work.</item>
+                  <item>Make <hi>haſte</hi> to doe it. Why <hi>haſt</hi> thou done it?</item>
+                  <item>A <hi>hole</hi> wherein things are hidden. A part for the <hi>whole.</hi>
+                  </item>
+                  <item>
+                     <hi>Holy</hi> men and women are Saints. A work that is <hi>wholly</hi> finiſht.</item>
+                  <item>When he was in the <hi>hollow,</hi> he began to whoop and <hi>hollaw.</hi>
+                  </item>
+                  <item>Stay not long from <hi>home.</hi> To <hi>whom</hi> ſhall I give it? A <hi>holme</hi> tree.</item>
+                  <item>To goe to their long <hi>homes. Holmes,</hi> a mans name.</item>
+                  <item>I <hi>hope</hi> to ſee my worke finiſht. I <hi>holp</hi> him to do his work.</item>
+                  <item>The <hi>hoops</hi> of a tub. He <hi>hoopeth</hi> the tub. He <hi>whoopeth</hi> and hollaweth.</item>
+                  <item>Let <hi>him</hi> ſing the <hi>hymne,</hi> that can ſing beſt.</item>
+                  <item>The bread doth <hi>hoar.</hi> She played the <hi>whore.</hi>
+                  </item>
+                  <item>Avoid the company of <hi>whores.</hi> The bread, or any thing that <hi>hoareth.</hi>
+                  </item>
+                  <item>To change his <hi>hue. Hughe,</hi> a mans Chriſten-name.</item>
+                  <item>They have changed their <hi>hues. Hughes,</hi> a mans ſirname.</item>
+                  <item>A <hi>herald</hi> of arms belonging to King <hi>Harold.</hi>
+                  </item>
+                  <item>If hee come wel and <hi>happily</hi> home, I may <hi>haply</hi> come and ſee him.</item>
+               </list>
+               <list>
+                  <head>I.</head>
+                  <item>
+                     <hi>I</hi> and thou are wel agree'd. <hi>Eye</hi> me in the doing of it.</item>
+                  <item>To <hi>incite</hi> or provoke one to do a thing. To bee always <hi>in ſight.</hi>
+                  </item>
+                  <item>
+                     <hi>Inure</hi> thy ſelfe to do it. Put this <hi>in ure. In your</hi> account it is but folly.</item>
+               </list>
+               <list>
+                  <head>J.</head>
+                  <item>Not in earneſt but in <hi>jeſt.</hi> A <hi>Geſt</hi> or worthy act. In their <hi>Geſts</hi> they uſed too many <hi>jeſts.</hi>
+                  </item>
+                  <item>Shee loveth to <hi>jet</hi> up and down. A <hi>jeat</hi>-ſtone.</item>
+                  <item>The <hi>juice</hi> or ſap of any thing. A <hi>joice</hi> to beare up the boards.</item>
+                  <item>Let the houſe bee made a <hi>jakes,</hi> for Mr. <hi>Jaques.</hi>
+                  </item>
+                  <item>Shee is of a <hi>gentle</hi> or milde diſpoſition. A <hi>gentil,</hi> or magot.</item>
+                  <item>A <hi>jointer,</hi> a tool to work withal. A womans <hi>jointure</hi> during her life.</item>
+                  <item>A <hi>jurdon,</hi> or chamber-pot. The river <hi>Jordan.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>K.</head>
+                  <item>Mr. <hi>Knox,</hi> hee <hi>knocketh</hi> many <hi>knocks</hi> at the door.</item>
+                  <item>A <hi>kennel</hi> for dogs. Sweep the <hi>chanel</hi> very clean.</item>
+                  <item>Give me leave to <hi>kil</hi> a deer. The bricks are in the brick-<hi>kilne.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>L.</head>
+                  <item>The <hi>Latine</hi>-tongue is very uſeful. A <hi>latten</hi>-ladle.</item>
+                  <item>The cow <hi>lowed</hi> after her calf very <hi>loud.</hi>
+                  </item>
+                  <item>Take the <hi>leaſt</hi> and leave the greateſt, <hi>leſt</hi> hee bee angry.</item>
+                  <item>
+                     <hi>Lemans</hi> or concubines. <hi>Lemons</hi> and Orenges.</item>
+                  <item>If hee cannot teach him his <hi>leſſon</hi> wel, you muſt <hi>leſſen</hi> his wages.</item>
+                  <item>
+                     <pb n="6" facs="tcp:111249:6"/>The <hi>litter</hi> of whelps, were caried in the horſ-<hi>licter.</hi>
+                  </item>
+                  <item>The <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of wine or oyl. To <hi>leeſe,</hi> or looſe ones labour.</item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that can leap very wel. <hi>Lepers</hi> that are ful of leproſie.</item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in the fitteſt time. High and <hi>low,</hi> rich and poor.</item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, or command. One that is <hi>lower</hi> of ſtature.</item>
+                  <item>A <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> after evill things. A bright <hi>luſtre</hi> or ſhining.</item>
+                  <item>The man that was out-<hi>laned,</hi> deſerved neither <hi>laud</hi> nor praiſe.</item>
+               </list>
+               <list>
+                  <head>M.</head>
+                  <item>At his <hi>Maneur</hi>-houſe, al things were done in a very good <hi>maner.</hi>
+                  </item>
+                  <item>He hangd his <hi>mantle</hi> upon the <hi>mantel</hi>-tree of the chimney.</item>
+                  <item>The <hi>Medes</hi> and Perſians. <hi>Meads</hi> or Meadows.</item>
+                  <item>
+                     <hi>Meat</hi> and drink muſt be had. A mete-yard to <hi>mete</hi> withal.</item>
+                  <item>The Lawyer ſent a <hi>meſſage,</hi> concerning the <hi>meſſuage.</hi>
+                  </item>
+                  <item>A <hi>meater</hi> that giveth meat to the cattel. A corn-<hi>meter.</hi> A <hi>meteor</hi> in the air.</item>
+                  <item>
+                     <hi>Martin,</hi> a mans ſirname. <hi>Marten,</hi> the name of a fowl.</item>
+                  <item>Mr. <hi>Marſhal</hi> had good skil in <hi>martial</hi> diſcipline.</item>
+                  <item>Hee did <hi>mone</hi> and bewail himſelfe, when his corne was <hi>mowen.</hi>
+                  </item>
+                  <item>
+                     <hi>Moe</hi> or more. Take the ſithe to <hi>mowe</hi> it down.</item>
+                  <item>The cat wil <hi>mouſe</hi> wel, when ſhe is amongſt the corn-<hi>moughs.</hi>
+                  </item>
+                  <item>Hawks-<hi>mites.</hi> He <hi>mueth</hi> his hawk. To <hi>muſe</hi> or meditate.</item>
+                  <item>The poor widows <hi>mite.</hi> Wee have no <hi>might</hi> nor power of our ſelves.</item>
+                  <item>If hee had had a good <hi>minde,</hi> hee would not have ſo under-<hi>mined</hi> mee.</item>
+                  <item>His man <hi>Maurice</hi> did dance the <hi>morice.</hi>
+                  </item>
+                  <item>
+                     <hi>Murrain,</hi> a diſeaſe amongſt cattel. <hi>Murion,</hi> a head-piece.</item>
+                  <item>Thouſands and <hi>Millions.</hi> Musk-<hi>melons.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>N.</head>
+                  <item>
+                     <hi>Naſh,</hi> a mans ſirname. To <hi>gnaſh</hi> the teeth.</item>
+                  <item>It was not for <hi>nought,</hi> that the figs were ſo <hi>naught.</hi>
+                  </item>
+                  <item>Yea and <hi>nay.</hi> The horſe did <hi>neigh.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>O.</head>
+                  <item>
+                     <hi>O</hi> my friend remember me. <hi>Oh</hi> that my friend would remember me! <hi>Owe</hi> nothing to any but love.</item>
+                  <item>Gold-<hi>ore.</hi> The water-mans <hi>oar.</hi> The <hi>ower</hi> of a debt.</item>
+                  <item>A pair of <hi>oars.</hi> The <hi>owers</hi> of debts.</item>
+                  <item>The <hi>ordure</hi> was laid upon the ground in good <hi>order.</hi>
+                  </item>
+                  <item>
+                     <hi>Our</hi> life beeing ſo ſhort, every <hi>hour</hi> thereof ought to bee wel ſpent.</item>
+                  <item>Neither <hi>ours</hi> nor yours, wil bee done in three <hi>hours.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>P.</head>
+                  <item>To <hi>pare</hi> the cheeſe. A <hi>pair</hi> of turtle doves.</item>
+                  <item>To <hi>pauſe</hi> a litle. The lions <hi>paws.</hi> The lion <hi>paweth</hi> with his paw.</item>
+                  <item>
+                     <pb n="7" facs="tcp:111249:6"/>The <hi>palat</hi> of his mouth was down, when he lay upon his <hi>pallet.</hi>
+                  </item>
+                  <item>Peter and <hi>Paul. Pal,</hi> a kinde of robe ſo call'd. (Pall)</item>
+                  <item>A <hi>Parſon</hi> or Vicar, may either of them bee a comely <hi>perſon.</hi>
+                  </item>
+                  <item>A faithful <hi>Paſtor,</hi> will feed his ſheep in a good <hi>paſture.</hi>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is not ſeemly for a fool. The lions <hi>preys.</hi> The lion <hi>preyeth</hi> upon the lambe. Hee <hi>prayeth</hi> for help from above.</item>
+                  <item>The Judge of the Common <hi>pleas,</hi> cannot <hi>pleaſe</hi> every one.</item>
+                  <item>Mr. <hi>Pierce,</hi> did <hi>pearce</hi> it with a ſword. The ſcholar did <hi>perſe</hi> and conſtru<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> his leſſon.</item>
+                  <item>Shee weareth her <hi>patens,</hi> and ſhee hath obtained Letters <hi>patents.</hi>
+                  </item>
+                  <item>
+                     <hi>Pillars</hi> to up-hold a building. Cater-<hi>pillers.</hi>
+                  </item>
+                  <item>
+                     <hi>Pride</hi> goeth before deſtruction. Hee <hi>pried</hi> or lookt into it.</item>
+                  <item>What <hi>profit</hi> can we receive, by a falſe <hi>Prophet?</hi>
+                  </item>
+                  <item>The <hi>propper</hi> of it up, was a very <hi>proper</hi> man.</item>
+                  <item>He hath no <hi>power</hi> to <hi>powre</hi> it out.</item>
+               </list>
+               <list>
+                  <head>R.</head>
+                  <item>The <hi>rain</hi> that refreſheth the earth. The <hi>rein</hi> of a bridle. The <hi>Reign</hi> of a King</item>
+                  <item>The <hi>reins</hi> of the back. The <hi>Reigns</hi> of Kings. The King <hi>reigneth.</hi> If it <hi>raineth</hi> get into a houſe.</item>
+                  <item>He that was of a noble <hi>race,</hi> did <hi>raſe</hi> the wals.</item>
+                  <item>The <hi>raies</hi> of the Sun. It is not good to <hi>raiſe</hi> contention.</item>
+                  <item>Some herbs are <hi>ranker</hi> than other. <hi>Rancour</hi> and malice.</item>
+                  <item>A <hi>red</hi> colour. What Authours haſt thou <hi>read?</hi>
+                  </item>
+                  <item>A <hi>reddiſh</hi> colour. A <hi>radiſh</hi> root.</item>
+                  <item>Can you give a <hi>reaſon,</hi> why a fig is better than a <hi>raiſin?</hi>
+                  </item>
+                  <item>Strong <hi>reaſons.</hi> He <hi>reaſoneth</hi> very well. Figs and <hi>raiſins.</hi>
+                  </item>
+                  <item>It is as good a <hi>ream</hi> of paper, as any is in the whole <hi>Realm.</hi>
+                  </item>
+                  <item>
+                     <hi>Reams</hi> of paper. <hi>Realms</hi> wel governed. <hi>Rhemes,</hi> the name of a place.</item>
+                  <item>Mr. <hi>Ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> took a <hi>riſe,</hi> and leapt over, where the <hi>rice</hi> was ſold.</item>
+                  <item>A <hi>rite</hi> or a ceremony. <hi>Right</hi> and wrong. To <hi>write</hi> and reade.</item>
+                  <item>A wheel-<hi>vright. Wright,</hi> a mans ſirname.</item>
+                  <item>
+                     <hi>Rites</hi> and ceremonies. Men will defend their <hi>rights.</hi> Wheel-<hi>wrights.</hi> He <hi>righteth</hi> himſelf. He <hi>writeth</hi> a letter.</item>
+                  <item>The <hi>rine</hi> wherein the brain lieth. The <hi>rinde</hi> of a pomegranate. The river <hi>Rhine.</hi>
+                  </item>
+                  <item>
+                     <hi>Roe,</hi> a mans ſirname. A <hi>roe</hi>-buck. A <hi>row</hi> of trees.</item>
+                  <item>The <hi>ro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> and hindes of the field. <hi>Rowes</hi> of trees. He <hi>roweth</hi> upon the wa<g ref="char:EOLhyphen"/>ter. A red-<hi>roſe. Roſe</hi> a womans Chriſten-name.</item>
+                  <item>When there was a <hi>rot</hi> amongſt the ſheep, I <hi>wrote</hi> him a letter.</item>
+                  <item>He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>aught</hi> it from of the ſhelf, when hee <hi>wrought</hi> with me. (off)</item>
+                  <item>
+                     <pb n="8" facs="tcp:111249:7"/>I had a riding <hi>rod</hi> in my hand, when I <hi>rode</hi> upon the high-way.</item>
+                  <item>When I <hi>rode</hi> along the <hi>road,</hi> I bought ſome fiſh that were hard-<hi>roed;</hi> and I diſcerned, that the Watermen, which caried my daughter <hi>Rhode, rowed</hi> apace.</item>
+                  <item>The <hi>roads,</hi> or common high-ways, that are in the Ile of <hi>Rhodes.</hi> (Iſle)</item>
+                  <item>The higheſt <hi>room</hi> in any houſe, of the City of <hi>Rome.</hi> (roume)</item>
+                  <item>Shee went <hi>round</hi> about, and <hi>rowned</hi> him in his ear.</item>
+                  <item>Shee that did wear a tiffany-<hi>ruf,</hi> did alſo wear a <hi>rough</hi> garment. (ruffe)</item>
+                  <item>When ſhee heareth the bels <hi>ring,</hi> ſhee wil <hi>wring</hi> her hands.</item>
+                  <item>When the bels were <hi>rung,</hi> thee <hi>wrung</hi> her hands.</item>
+                  <item>Hee <hi>rued</hi> the time, that ever he was ſo <hi>rude.</hi>
+                  </item>
+                  <item>Hee that had ſo many cheeſes in the cheeſe-<hi>rack,</hi> did alſo ſuffer Ship-<hi>wrack.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>S.</head>
+                  <item>Hee that made <hi>ſlight</hi> of it, had a <hi>ſleight</hi> in the doing of it.</item>
+                  <item>Hee was no <hi>ſaver</hi> in buying ſuch commodities, though they had a ſweet-<hi>ſavour.</hi>
+                  </item>
+                  <item>
+                     <hi>Savors</hi> and looſers. Sweet <hi>ſavours.</hi> Hee <hi>ſavoureth</hi> not that which is good.</item>
+                  <item>The <hi>Seas</hi> have divers names. To <hi>ſeize</hi> upon a mans goods.</item>
+                  <item>
+                     <hi>Ceaſing</hi> from ſtrife. <hi>Ceſſing</hi> him to pay a great ſum. (ſumme)</item>
+                  <item>Wil you not <hi>ceaſe</hi> talking? Why do you <hi>ceſ</hi> him ſo much? (ceſſe)</item>
+                  <item>The buyer and the <hi>ſeller</hi> do oftentimes offend. A wine-<hi>cellar.</hi>
+                  </item>
+                  <item>The one <hi>Sutler,</hi> was <hi>ſubtiller</hi> than the other.</item>
+                  <item>There was no <hi>ſigne,</hi> either of a <hi>ſine</hi> or tangent.</item>
+                  <item>A <hi>Cenſor</hi> or reformer of maners. Aarons <hi>cenſer.</hi> To <hi>cenſure</hi> or judge.</item>
+                  <item>The third <hi>Centurie.</hi> An herb that is call'd <hi>centory.</hi>
+                  </item>
+                  <item>Hee did <hi>ſheer</hi> the ſheep, which he had in Buckingham-<hi>ſhire.</hi>
+                  </item>
+                  <item>
+                     <hi>Cite</hi> him to appear. The <hi>ſight</hi> of the eye. The <hi>fite</hi> of an houſe.</item>
+                  <item>Hee was <hi>cited</hi> to appear. Quick-<hi>ſighted.</hi> A houſe wel <hi>ſited.</hi>
+                  </item>
+                  <item>A <hi>ſyren</hi> or mermaid. Simon of <hi>Cyrene.</hi>
+                  </item>
+                  <item>A lute and a <hi>cittern.</hi> A lemon or a <hi>citron.</hi>
+                  </item>
+                  <item>Mount-<hi>Sion.</hi> A <hi>ſcion</hi> or graf which is to be grafted into a ſtock. (graffe)</item>
+                  <item>A <hi>ſink</hi> to convey the water. The <hi>Cinque</hi>-ports.</item>
+                  <item>Why wil you have it <hi>ſo?</hi> To <hi>ſowe</hi> the ſeed. To <hi>ſewe</hi> a garment.</item>
+                  <item>The <hi>ſole</hi> of a ſhoo. The <hi>ſoule</hi> and body.</item>
+                  <item>The <hi>ſoles</hi> of his ſhoos. Hee <hi>ſoleth</hi> his ſhoos. <hi>Soules</hi> and bodies.</item>
+                  <item>Bought and <hi>ſold.</hi> The ſhoos were <hi>ſol'd.</hi>
+                  </item>
+                  <item>His body was very <hi>ſound.</hi> He fel into a <hi>ſwoun.</hi>
+                  </item>
+                  <item>I was in ſuch a <hi>ſtrait,</hi> that I was forc't to take the crooked for the <hi>ſtreight</hi>
+                  </item>
+                  <item>A <hi>ſloe</hi>-tree. Hee goeth but a <hi>ſlow</hi> pace.</item>
+                  <item>
+                     <pb n="9" facs="tcp:111249:7"/>A <hi>ſore</hi> which cannot be healed. Hee <hi>ſwore</hi> or ſware an oath.</item>
+                  <item>A <hi>ſly</hi>-fellow. <hi>Sligh,</hi> a mans ſirname.</item>
+                  <item>A hedge and a <hi>ſtile.</hi> A <hi>ſtyle</hi> or form of writing.</item>
+                  <item>The hawk did <hi>ſoar</hi> aloft. The <hi>ſower</hi> did ſow the ſeed.</item>
+                  <item>To <hi>ſhoot</hi> an arrow. A <hi>ſute</hi> of apparel. A <hi>ſuit</hi> in Law. <hi>Shute,</hi> a mans ſirname</item>
+                  <item>Hee had three <hi>ſhoots</hi> with his bowe. <hi>Sutes</hi> of apparel.</item>
+                  <item>
+                     <hi>Suits</hi> in Law. Hee <hi>ſhooteth</hi> with his bowe. Hee <hi>ſuteth</hi> himſelf with appa<g ref="char:EOLhyphen"/>rel. Hee non-<hi>ſuiteth</hi> him at the Law.</item>
+                  <item>What <hi>ſuccour</hi> can we look for, from a bloud-<hi>ſucker?</hi>
+                  </item>
+                  <item>
+                     <hi>Some</hi> would be glad, if they had but ſuch a <hi>ſum</hi> of money. (ſumme)</item>
+                  <item>When the <hi>Sun</hi> ſhineth, my <hi>Son</hi> wil walk into the field. (Sunne, Sonne.)</item>
+               </list>
+               <list>
+                  <head>T.</head>
+                  <item>To make a wilde beaſt <hi>tame. Thame,</hi> a town ſo call'd.</item>
+                  <item>A <hi>tamer</hi> beaſt than the other. <hi>Thamar,</hi> Judahs daughter in law.</item>
+                  <item>A <hi>tax</hi> or tribute. Hee <hi>tacketh</hi> it together with <hi>ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ks.</hi>
+                  </item>
+                  <item>The treble and the <hi>tenor.</hi> A <hi>tenour</hi> or form of words. The <hi>tenure</hi> whereby a man holdeth his land.</item>
+                  <item>
+                     <hi>There</hi> was one, that was of <hi>their</hi> acquaintance.</item>
+                  <item>Hee had more knowledge in hens and <hi>turkeys,</hi> than he had in an emerald or a <hi>turquois.</hi>
+                  </item>
+                  <item>We ought to redeem the <hi>time. Thyme,</hi> an herb ſo call'd.</item>
+                  <item>Take heed you looſe not the <hi>tide.</hi> The horſes were <hi>tied</hi> together.</item>
+                  <item>A foot and a <hi>toe.</hi> Shee ſpinneth flax and <hi>towe.</hi>
+                  </item>
+                  <item>The feet and <hi>toes.</hi> Bee careful how you <hi>toſe</hi> the wool.</item>
+                  <item>A <hi>toad.</hi> Fingred and <hi>toed.</hi> Hee <hi>towed</hi> his Barge.</item>
+                  <item>Go <hi>tole</hi> the bel. To pay <hi>tol</hi> or tribute. (toll)</item>
+                  <item>I <hi>told</hi> him of it when I <hi>toled</hi> the bel.</item>
+                  <item>It is <hi>too</hi> much for <hi>two</hi> men, <hi>to</hi> write in one day.</item>
+                  <item>A <hi>tract</hi> or litle treatiſe. I <hi>trackt</hi> him home to his houſe.</item>
+                  <item>A ſmall <hi>treatiſe,</hi> containing diverſe <hi>treaties,</hi> concerning peace.</item>
+                  <item>I had <hi>then</hi> more work <hi>than</hi> I could do.</item>
+                  <item>The King was <hi>thrown</hi> from his <hi>throne.</hi>
+                  </item>
+                  <item>It was <hi>through</hi> your help, that I came <hi>thorow.</hi>
+                  </item>
+                  <item>His <hi>throat</hi> wil bee in danger, if he <hi>throw't</hi> away.</item>
+               </list>
+               <list>
+                  <head>V.</head>
+                  <item>It is a <hi>vain</hi> thing, to let blood in a wrong <hi>vein.</hi>
+                  </item>
+                  <item>A <hi>venter</hi> or utterer of commodities. To <hi>venture</hi> or hazard.</item>
+                  <item>
+                     <hi>Venters</hi> of commodities. <hi>Ventures</hi> at Sea. He <hi>ventureth</hi> it.</item>
+                  <item>When you fill'd the <hi>vial,</hi> I playd upon the <hi>viol.</hi>
+                  </item>
+               </list>
+               <pb n="10" facs="tcp:111249:8"/>
+               <list>
+                  <head>W.</head>
+                  <item>A <hi>way</hi> to walk in. A <hi>weigh</hi> of cheeſe.</item>
+                  <item>
+                     <hi>Ways</hi> to walk in. <hi>Weighs</hi> of cheeſe. Hee <hi>weigheth</hi> the cheeſe.</item>
+                  <item>Fire and <hi>water</hi> are good ſervants. <hi>Walter,</hi> a mans Chriſten name.</item>
+                  <item>Deep <hi>waters.</hi> Hee <hi>watereth</hi> his garden. <hi>Walters,</hi> a mans ſirname</item>
+                  <item>To <hi>wait</hi> upon his maſter. To ſel by <hi>weight.</hi>
+                  </item>
+                  <item>The <hi>waits,</hi> or wait players of the City. Juſt <hi>weights</hi> and bal<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>es. He <hi>waiteth</hi> his turn.</item>
+                  <item>If you <hi>were</hi> wiſe, you would <hi>wear</hi> warmer cloaths.</item>
+                  <item>A <hi>wich</hi>-tree and a haſel-tree. A <hi>witch</hi> ought not to live.</item>
+                  <item>When you go to the <hi>wood,</hi> I <hi>would</hi> go along with you.</item>
+                  <item>When he <hi>wooed</hi> her, he was almoſt <hi>woode.</hi>
+                  </item>
+                  <item>A <hi>wad</hi> of ſtraw to lie upon. <hi>Woad</hi> to die withall.</item>
+               </list>
+               <list>
+                  <head>Y.</head>
+                  <item>A bowe made of <hi>yew. You</hi> and I are good friends. <hi>
+                        <g ref="char:V">Ʋ</g>
+                     </hi> and I are vowels.</item>
+                  <item>
+                     <hi>Yews,</hi> or yew-trees. <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> thy friends courteouſly.</item>
+                  <item>
+                     <hi>Your</hi> friends are wel. Put this in <hi>ure.</hi> A baſon and <hi>ewre.</hi>
+                  </item>
+                  <item>Neither ours nor <hi>yours.</hi> Baſons and <hi>ewres.</hi> Hee in-<hi>ureth</hi> himſelf to it.</item>
+                  <item>
+                     <hi>Yee</hi> that are wiſe, uſe <hi>yea</hi> and nay in your communication.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Such words which are ſo neer alike in ſound, as that they are ſometimes taken one for another; are alſo expreſt by different Letters, in theſe examples following.</head>
+               <list>
+                  <head>A.</head>
+                  <item>
+                     <hi>ASk</hi> the carpenter for his <hi>ax,</hi> whereby he hath done ſuch ſtrange <hi>ac<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Abel</hi> was not <hi>able</hi> to do it.</item>
+                  <item>It will <hi>amaſe</hi> you, to ſee him cary <hi>a mace.</hi>
+                  </item>
+                  <item>It is <hi>al-one,</hi> whether it be in company or <hi>alone.</hi>
+                  </item>
+                  <item>His <hi>actions</hi> were not anſwerable to his <hi>axioms.</hi>
+                  </item>
+                  <item>Bowes and <hi>arrows.</hi> Cloth of <hi>arras.</hi>
+                  </item>
+                  <item>Give your <hi>advice,</hi> and <hi>adviſe</hi> mee for the beſt.</item>
+                  <item>The valley of <hi>Achor.</hi> An <hi>acre</hi> of ground.</item>
+                  <item>The <hi>ant</hi> is a wiſe creature. An uncle and an <hi>aunt.</hi>
+                  </item>
+                  <item>Since I learned my <hi>Accidence,</hi> there have bin ſtrange <hi>accidents.</hi>
+                  </item>
+                  <item>
+                     <pb n="11" facs="tcp:111249:8"/>Some are in their behaviour, <hi>as</hi> a wilde <hi>aſ.</hi> (aſſe)</item>
+               </list>
+               <list>
+                  <head>B.</head>
+                  <item>To play at <hi>bowls.</hi> To drinke in <hi>boles.</hi>
+                  </item>
+                  <item>An Earl and a <hi>Baron.</hi> A <hi>barren</hi> wombe.</item>
+                  <item>A wheel-<hi>barrow.</hi> To lend and <hi>borrow.</hi> The <hi>Borough</hi> of Southwark.</item>
+                  <item>Hee ſpent ſo much upon <hi>barley,</hi> that he went but <hi>barely.</hi>
+                  </item>
+                  <item>
+                     <hi>Boyſe,</hi> a mans ſirname. <hi>Boys</hi> and girls.</item>
+                  <item>A <hi>bath</hi> to <hi>bathe</hi> in.</item>
+                  <item>The voluntary <hi>Bands</hi> were unwilling to come in <hi>bonds.</hi>
+                  </item>
+                  <item>A threed-<hi>bare</hi> garment. To <hi>bear</hi> a burden.</item>
+                  <item>The childe did <hi>begin,</hi> to pul of his <hi>biggin.</hi> (off)</item>
+                  <item>Our <hi>breath</hi> is the cauſe why we <hi>breathe.</hi>
+                  </item>
+                  <item>If he looſe his <hi>bauble</hi> in going to <hi>Babel,</hi> hee wil <hi>bable.</hi> (babble)</item>
+                  <item>His <hi>bile</hi> brake, when the pot did <hi>boyl.</hi>
+                  </item>
+                  <item>John <hi>Bruce</hi> did <hi>bruiſe</hi> his leg, when hee ate the <hi>brewis</hi> in the <hi>brewhouſe.</hi>
+                  </item>
+                  <item>The litle childe began to <hi>batle,</hi> when his father went to the <hi>battel.</hi>
+                  </item>
+                  <item>I did <hi>bore</hi> a hole, thorow the noſe of the wilde <hi>boar.</hi>
+                  </item>
+                  <item>Who will ſend an <hi>arrant</hi> knave, to do an <hi>errand?</hi>
+                  </item>
+                  <item>
+                     <hi>Bowes</hi> and arrows. <hi>Boughs</hi> and branches.</item>
+                  <item>The ſauſe for the <hi>bittern,</hi> was made very <hi>bitter.</hi>
+                  </item>
+                  <item>Proud <hi>boaſters,</hi> may ſometimes want pillows and <hi>bolſters</hi> for their beds.</item>
+                  <item>They <hi>both</hi> went into a <hi>boothe.</hi>
+                  </item>
+                  <item>You think that you have taken the <hi>beſt,</hi> but another <hi>beast</hi> may be as good</item>
+                  <item>Your book is not ſo wel <hi>boſt,</hi> that you ſhould have cauſe to <hi>boaſt.</hi>
+                  </item>
+                  <item>They put on their <hi>boots,</hi> when they went into their <hi>boats.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>C.</head>
+                  <item>Write your <hi>copies,</hi> and get you to play in the <hi>copiſe.</hi>
+                  </item>
+                  <item>If you cannot leave <hi>coughing,</hi> you will ſoon bee put into a <hi>coffin.</hi>
+                  </item>
+                  <item>When hee <hi>cough't,</hi> I <hi>caught</hi> him by his <hi>coat.</hi>
+                  </item>
+                  <item>To tithe mint and <hi>cummin.</hi> To bee long in <hi>coming.</hi>
+                  </item>
+                  <item>Before I played at <hi>cheſ,</hi> I unlockt the <hi>cheſts.</hi> (cheſſe)</item>
+                  <item>His <hi>chaps</hi> were ful of <hi>chops.</hi>
+                  </item>
+                  <item>It was a good <hi>chare,</hi> to ſet him in a <hi>chair,</hi> and give him good <hi>cheer.</hi>
+                  </item>
+                  <item>A <hi>capital</hi> or great offence. The <hi>Capitol,</hi> a place in Rome.</item>
+                  <item>
+                     <hi>Currants</hi> to cary away the water. Raiſins and <hi>corrants.</hi>
+                  </item>
+                  <item>By a neceſſary <hi>conſequence,</hi> they may prove dangerous <hi>conſequents.</hi>
+                  </item>
+                  <item>Spare no <hi>coſt,</hi> to travel into every <hi>coaſt.</hi>
+                  </item>
+                  <item>What were the <hi>cauſes,</hi> that the <hi>cauſeys</hi> were no better lookt unto?</item>
+               </list>
+               <list>
+                  <head>D.</head>
+                  <item>The <hi>dun</hi> colour was wel <hi>done.</hi>
+                  </item>
+                  <item>
+                     <pb n="12" facs="tcp:111249:9"/>Hee was but a <hi>dunſe,</hi> that knew not the <hi>duns</hi> from the other colours.</item>
+                  <item>Comely and <hi>decent.</hi> Of a noble <hi>deſcent.</hi> To <hi>diſſent</hi> or diſagree.</item>
+                  <item>Concerning the word <hi>deſcenſion,</hi> there hath bin much <hi>diſſenſion.</hi>
+                  </item>
+                  <item>When you <hi>diſcomfite</hi> your enemies, it is no <hi>diſcomfort</hi> to mee.</item>
+                  <item>Bucks and <hi>does.</hi> Let him take but one <hi>doſe.</hi>
+                  </item>
+                  <item>It was ſuch a fine <hi>device,</hi> as none could <hi>deviſe</hi> a better.</item>
+                  <item>Before his <hi>deceaſe,</hi> hee was ſick of a dangerous <hi>diſeaſe.</hi>
+                  </item>
+                  <item>Thou art but <hi>duſt</hi> and aſhes, why <hi>doſt</hi> thou lift up thy ſelf?</item>
+                  <item>In the time of a <hi>dearth,</hi> not long before his <hi>death,</hi> hee was ſo <hi>deaf</hi> that hee could not hear.</item>
+                  <item>It was not without <hi>deſert,</hi> that hee was robb'd in the <hi>Deſart.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>E.</head>
+                  <item>In looking toward the <hi>Eaſt,</hi> ſhee ſpilt her <hi>yeeſt.</hi>
+                  </item>
+                  <item>Shee doth <hi>earn</hi> her living, by ſpinning of <hi>yarn.</hi>
+                  </item>
+                  <item>You muſt <hi>either</hi> take out of the hedge, the <hi>ether</hi> or the ſtake.</item>
+                  <item>His <hi>ears</hi> were deaf, for many <hi>yeers</hi> together.</item>
+                  <item>If you had not meaſured ſo many <hi>els,</hi> you ſhould <hi>elſe</hi> have wronged your ſelf.</item>
+                  <item>The moſt <hi>eminent</hi> man, was in the moſt <hi>imminent</hi> danger.</item>
+                  <item>When I was with him but <hi>even now,</hi> he gave mee good words <hi>inow,</hi> but money little <hi>inough.</hi>
+                  </item>
+                  <item>The two ſons of <hi>Eli.</hi> The Ile of <hi>Ely.</hi> (Iſle)</item>
+               </list>
+               <list>
+                  <head>F.</head>
+                  <item>It was a <hi>falſe</hi> report, that you had ſo many <hi>fals</hi> by the way.</item>
+                  <item>The Cook hath more skil in a <hi>froiſe,</hi> than a <hi>phraſe.</hi>
+                  </item>
+                  <item>The watermen had many <hi>fares,</hi> to cary to the <hi>fairs.</hi>
+                  </item>
+                  <item>His houſe in the <hi>fens,</hi> was without a <hi>fence.</hi>
+                  </item>
+                  <item>When I <hi>fought</hi> with him, I committed a <hi>fault.</hi>
+                  </item>
+                  <item>The hounds do <hi>follow</hi> the <hi>fallow</hi> deer.</item>
+                  <item>A gown lined with <hi>fur.</hi> A <hi>fir</hi>-tree. (furre, firre)</item>
+                  <item>To <hi>farm</hi> or make clean. A <hi>form</hi> of words. A <hi>fourm</hi> to ſit upon.</item>
+                  <item>
+                     <hi>Pharez,</hi> a mans name. <hi>Fairies</hi> and hobgoblins.</item>
+                  <item>The <hi>Farmer</hi> ſold his <hi>former</hi> yeers crop.</item>
+                  <item>A ſmal <hi>flie</hi> may <hi>flee</hi> into a narrow place.</item>
+                  <item>The fiſhes had <hi>fins</hi> and ſcales. The <hi>fiends</hi> of hel.</item>
+               </list>
+               <list>
+                  <head>G.</head>
+                  <item>The <hi>Gallants</hi> did drink many <hi>gallons</hi> of wine.</item>
+                  <item>The child went into the <hi>garden,</hi> and there hee found his <hi>Guardian.</hi>
+                  </item>
+                  <item>A <hi>glaſ</hi> to drink in. To ſet a fair <hi>gloſ</hi> upon any thing. (glaſſe, gloſſe)</item>
+                  <item>It was but a fooliſh <hi>geſture,</hi> that was uſed by the <hi>jeſter.</hi>
+                  </item>
+                  <item>
+                     <pb n="13" facs="tcp:111249:9"/>The carman that did wear a <hi>jerking,</hi> never left <hi>jerking</hi> his horſe.</item>
+               </list>
+               <list>
+                  <head>H.</head>
+                  <item>John <hi>Howel</hi> did <hi>howl,</hi> when he was thrown into the <hi>hole.</hi>
+                  </item>
+                  <item>
+                     <hi>Whoſe hoſe</hi> and ſhoos are theſe?</item>
+                  <item>He was but a <hi>homely</hi> man, which read the <hi>Homilie.</hi>
+                  </item>
+                  <item>To <hi>hallow</hi> or make holy. A <hi>hollow</hi> place in the ground.</item>
+                  <item>I do <hi>gueſ</hi> that I ſhal have <hi>gheſts.</hi> (gueſſe)</item>
+                  <item>The beadle that whipt the <hi>whores,</hi> beeing very <hi>hoarſe,</hi> when he went away he rode upon a <hi>horſe.</hi>
+                  </item>
+                  <item>Shee tooke away all that was <hi>his.</hi> The ſerpents and the ſnakes did <hi>hiſ.</hi> (hiſſe)</item>
+                  <item>Let them drive away the <hi>hens</hi> from <hi>hence.</hi>
+                  </item>
+                  <item>
+                     <hi>Holly</hi> and Ivie. <hi>Holy</hi> men and women are deſpiſed in this world.</item>
+                  <item>
+                     <hi>Hepher,</hi> a mans name. A young <hi>heifer.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>I.</head>
+                  <item>His man <hi>James,</hi> did break the <hi>jambs</hi> of the wal. (wall)</item>
+                  <item>A man that is <hi>ingenious</hi> and witty, ought alſo to bee <hi>ingenuous</hi> and Gen<g ref="char:EOLhyphen"/>tleman-like.</item>
+                  <item>The way is not <hi>impaſſable,</hi> nor the thing is not <hi>impoſſible.</hi>
+                  </item>
+                  <item>It doth <hi>imply</hi> aſmuch, as that hee ought to <hi>imploy</hi> himſelf wel.</item>
+                  <item>Why is <hi>it</hi> not <hi>yet</hi> done?</item>
+                  <item>An <hi>idol</hi> is not to bee worſhipt. An <hi>idle</hi> perſon ought not to eat.</item>
+                  <item>As you have work <hi>inough</hi> to do, ſo you have men <hi>inow</hi> to do it.</item>
+                  <item>His <hi>eyes</hi> cannot ſee the <hi>ice.</hi>
+                  </item>
+                  <item>
+                     <hi>Joice,</hi> a womans Chriſten-name. The <hi>joys</hi> of heaven.</item>
+               </list>
+               <list>
+                  <head>K.</head>
+                  <item>I <hi>know</hi> that the dog can <hi>gnaw</hi> a bone.</item>
+                  <item>It is wel <hi>known,</hi> that the bone was wel <hi>gnawn.</hi>
+                  </item>
+                  <item>The <hi>knots</hi> are faſt tied. The <hi>gnats</hi> are very buſy in hote weather.</item>
+               </list>
+               <list>
+                  <head>L.</head>
+                  <item>The <hi>lines</hi> are fairly written. His <hi>loyns</hi> are girded about.</item>
+                  <item>A man of a <hi>lowe</hi> ſtature. The Ox did <hi>low.</hi>
+                  </item>
+                  <item>A man of <hi>lower</hi> ſtature. Why do you <hi>lowre</hi> upon me?</item>
+                  <item>When the <hi>lead</hi> was <hi>layd,</hi> hee <hi>led</hi> mee by the hand.</item>
+                  <item>The <hi>leas</hi> were added to his <hi>leaſe.</hi>
+                  </item>
+                  <item>Hee that told many <hi>lies,</hi> his cloaths were ful of <hi>lice.</hi>
+                  </item>
+                  <item>I was very <hi>loth</hi> to do it, yea, I did <hi>loathe</hi> to do it.</item>
+                  <item>When the <hi>leaſes</hi> are made, give them to the <hi>Leaſſees.</hi>
+                  </item>
+               </list>
+               <pb n="14" facs="tcp:111249:10"/>
+               <list>
+                  <head>M.</head>
+                  <item>The day before <hi>Marie</hi> did <hi>marry,</hi> ſhee appointed the bones that were ful of <hi>marrow,</hi> to bee boyl'd on the <hi>morrow.</hi>
+                  </item>
+                  <item>They that wrought in the <hi>mines,</hi> made knowne their <hi>mindes.</hi>
+                  </item>
+                  <item>To <hi>mince</hi> the meat. The <hi>Mints</hi> where money is coined.</item>
+                  <item>I did <hi>miſ</hi> the fight of him, by reaſon of the <hi>miſts.</hi> (miſſe)</item>
+                  <item>To <hi>mowe</hi> down the corn. A <hi>mough</hi> of corn.</item>
+                  <item>The <hi>maids</hi> went to gather ruſhes in the <hi>meads.</hi>
+                  </item>
+                  <item>The one <hi>mower</hi> did mowe <hi>more</hi> than the other.</item>
+                  <item>
+                     <hi>Moles</hi> that caſt up the earth. <hi>Moulds</hi> wherein metals are caſt.</item>
+                  <item>When hee had the <hi>myrrhe</hi> and aloes, hee was ful of <hi>mirth.</hi>
+                  </item>
+                  <item>A rat and a <hi>mouſe.</hi> Barley <hi>moughs.</hi>
+                  </item>
+                  <item>To riſe betimes in the <hi>morning,</hi> in a day of <hi>mourning.</hi>
+                  </item>
+                  <item>The hawks-<hi>mues.</hi> A <hi>muſe.</hi>
+                  </item>
+                  <item>Her <hi>miſtreſ</hi> did reveal many <hi>myſteries.</hi> (miſtreſſe)</item>
+               </list>
+               <list>
+                  <head>N.</head>
+                  <item>It is <hi>neither</hi> you nor I, that can lift the <hi>nether</hi> milſtone.</item>
+                  <item>The <hi>nones</hi> of a moonth. It was done for the <hi>nonce.</hi> (moneth)</item>
+                  <item>Some of the <hi>needles</hi> which ſhee uſed, were <hi>needleſ.</hi> (needleſſe)</item>
+                  <item>His <hi>neece</hi> did <hi>neeſe</hi> very much.</item>
+                  <item>I was <hi>never</hi> a whit the <hi>neer,</hi> for al the labour which I beſtowed.</item>
+               </list>
+               <list>
+                  <head>O.</head>
+                  <item>Hee thought it inough to do it <hi>once,</hi> but every <hi>ones</hi> minde is not alike.</item>
+                  <item>Hee that was the <hi>owner</hi> of it, gained much <hi>honour</hi> by it.</item>
+                  <item>You <hi>ought</hi> to have done it very <hi>oft.</hi>
+                  </item>
+                  <item>Hee did <hi>owne one</hi> of them <hi>on</hi> the firſt day, but not on the ſecond.</item>
+               </list>
+               <list>
+                  <head>P.</head>
+                  <item>
+                     <hi>Pare</hi> the aple, but not the <hi>peare.</hi>
+                  </item>
+                  <item>The woman that went upon her <hi>patens,</hi> had very good <hi>paterns.</hi>
+                  </item>
+                  <item>Such as are <hi>Patients,</hi> have much need of <hi>patience.</hi>
+                  </item>
+                  <item>The feathers of the <hi>pullen,</hi> were ready for <hi>pulling.</hi>
+                  </item>
+                  <item>The way is <hi>paſſable;</hi> and the thing is <hi>poſſible.</hi>
+                  </item>
+                  <item>Hee had more <hi>pens</hi> to write withal, than hee had <hi>pence</hi> in his purſe.</item>
+                  <item>In taking away the beans and <hi>peaſe,</hi> hee diſturbed the <hi>peace.</hi>
+                  </item>
+                  <item>Hee layd a <hi>plot,</hi> how to take away his <hi>plat</hi> of ground.</item>
+                  <item>The <hi>principal</hi> man of al others, taught the firſt <hi>principle.</hi>
+                  </item>
+                  <item>Forget not to <hi>powre</hi> out thy drink to the thirſty, and to relieve the <hi>poore.</hi>
+                  </item>
+                  <item>A <hi>Prince</hi> is to bee honoured. The <hi>prints</hi> may eaſily bee ſeen.</item>
+                  <item>Kings and <hi>Princes.</hi> A <hi>Princeſ,</hi> the daughter of a King. (Princeſſe)</item>
+                  <item>
+                     <pb n="15" facs="tcp:111249:10"/>Hee removed out of his <hi>place,</hi> that the <hi>plaiſe</hi> might bee dreſt for ſupper.</item>
+                  <item>The time was <hi>paſt,</hi> before the <hi>paſte</hi> could bee made.</item>
+                  <item>Before hee came into his <hi>preſence,</hi> hee ſent him many <hi>preſents.</hi>
+                  </item>
+                  <item>Hee ſold that for a good <hi>price,</hi> which hee had taken before as a <hi>priſe.</hi>
+                  </item>
+                  <item>Hee had many <hi>puls</hi> at the bel-rope. Let mee feel your <hi>pulſe.</hi>
+                  </item>
+                  <item>Writen both in verſe and <hi>proſe.</hi> A man ful of <hi>proweſ.</hi> (proweſſe)</item>
+                  <item>To <hi>pearce</hi> it with a ſword. The <hi>Peers</hi> of the Realm.</item>
+                  <item>Pontius <hi>Pilate.</hi> A skilful <hi>Pilot</hi> to guide a ſhip.</item>
+                  <item>They laid a <hi>plot</hi> for his life. A pleaſant <hi>plat</hi> of ground.</item>
+                  <item>A <hi>paraſite,</hi> is not altogether ſo bad as a <hi>paricide.</hi>
+                  </item>
+                  <item>The leaves of a <hi>poplar.</hi> A <hi>popular</hi> applauſe.</item>
+                  <item>In al his <hi>promiſes,</hi> hee had no reſpect to the <hi>premiſes.</hi>
+                  </item>
+                  <item>Some folks are hard to <hi>pleaſe. Plays</hi> are out of requeſt.</item>
+                  <item>The heads upon the Bridge are ſet upon <hi>poles. Pauls</hi> ſteeple.</item>
+                  <item>Some when they have <hi>playd</hi> al day, wil <hi>plead</hi> for themſelves.</item>
+               </list>
+               <list>
+                  <head>R.</head>
+                  <item>To truſt in a broken <hi>reed.</hi> To <hi>reade</hi> and write.</item>
+                  <item>Hee <hi>wrought</hi> hard when hee <hi>wrote</hi> his copie, but hee learned his leſſon by <hi>rote.</hi>
+                  </item>
+                  <item>To <hi>raſe</hi> the wals. To <hi>raiſe</hi> the ſiege.</item>
+                  <item>A barbers <hi>raſour.</hi> A <hi>raiſer</hi> of ſedition.</item>
+                  <item>A mouſe and a <hi>rat.</hi> The ſheep die of the <hi>rot.</hi>
+                  </item>
+                  <item>A man that is <hi>real</hi> in his word. It is worth a <hi>ryal.</hi> The bloud-<hi>royal.</hi>
+                  </item>
+                  <item>A child <hi>reverent</hi> to his Parents. A <hi>reverend</hi> or grave man.</item>
+                  <item>Hee was <hi>wroth,</hi> becauſe ſhee was ful of <hi>wrath,</hi> ſo <hi>rathe.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>S.</head>
+                  <item>When they had fill'd their <hi>ſives,</hi> with onions and <hi>cives.</hi>
+                  </item>
+                  <item>They whetted their <hi>ſithes:</hi> and beeing ful of grief, they fetcht many <hi>ſighes.</hi>
+                  </item>
+                  <item>It belonged to his <hi>ſcience,</hi> to have knowledg in grafs and <hi>ſcions.</hi>
+                  </item>
+                  <item>I lent him my <hi>ſignet,</hi> when I gave him the <hi>cygnet.</hi>
+                  </item>
+                  <item>
+                     <hi>Cypreſ</hi>-trees. (Cypreſſe) <hi>Cipers</hi> hatbands. To ſtand for <hi>ciphers.</hi>
+                  </item>
+                  <item>Go to <hi>ſirra,</hi> Sir John wil talk with you, when you come into <hi>Surrey.</hi>
+                  </item>
+                  <item>When you <hi>ſowe</hi> your ſeed, drive out the <hi>ſow</hi> and her pigs.</item>
+                  <item>When the <hi>ſower</hi> went to ſowe his ſeed, I gave him a bunch of <hi>ſowre</hi> grapes.</item>
+                  <item>When the <hi>ſows</hi> had pigs, al the <hi>ſowſe</hi> was eaten.</item>
+                  <item>Their <hi>ſores</hi> were al healed. A <hi>ſourſe.</hi>
+                  </item>
+                  <item>
+                     <pb n="16" facs="tcp:111249:11"/>Hee put eight <hi>ſleaves</hi> of ſilk, into his wide <hi>ſleeves.</hi>
+                  </item>
+                  <item>Shee <hi>ſeeth</hi> that the pot is ready to <hi>ſeethe.</hi>
+                  </item>
+                  <item>To <hi>ſay</hi> wel and do wel. The <hi>Sea</hi> is never quiet.</item>
+                  <item>A woman is the weaker <hi>ſex.</hi> There are ſeveral <hi>ſects.</hi>
+                  </item>
+                  <item>When the <hi>ſteed</hi> is ſtoln, he wil ſtand you in no <hi>ſtead.</hi>
+                  </item>
+                  <item>At his work hee is very <hi>ſlowe.</hi> Hee is faln into a <hi>ſlough.</hi>
+                  </item>
+                  <item>I gave unto the <hi>ſpies,</hi> great ſtore of <hi>ſpice.</hi>
+                  </item>
+                  <item>They ſawed them with <hi>ſaws.</hi> The Cook made good <hi>ſauſe.</hi>
+                  </item>
+                  <item>The <hi>ſenſe</hi> of the words muſt bee underſtood. Sweet <hi>ſents.</hi>
+                  </item>
+                  <item>The <hi>Seas</hi> are dangerous. When wil you <hi>ceaſe</hi> talking?</item>
+                  <item>
+                     <hi>Seizing</hi> upon his goods. <hi>Ceaſing</hi> from ſtrife.</item>
+                  <item>Why do you wear out your <hi>ſhoos,</hi> to ſee the <hi>ſhewes?</hi>
+                  </item>
+                  <item>Have no <hi>ſociety</hi> with him. The <hi>ſatietie</hi> of the rich hurteth them.</item>
+                  <item>When they gathered <hi>ſloes,</hi> they fel into the <hi>ſloughs.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir John</hi> ſent for the <hi>Surgeon.</hi> (Chirurgion)</item>
+                  <item>His daughter <hi>Cicelie,</hi> went into the Countrey of <hi>Sicilie:</hi> and afterwards ſhe journeyed from <hi>Cilicia,</hi> into <hi>Sileſia.</hi>
+                  </item>
+                  <item>Al the <hi>ſheep</hi> were caried into the <hi>ſhip.</hi>
+                  </item>
+                  <item>Hee hath bin very ſory for his <hi>ſins,</hi> ever <hi>ſince.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>T.</head>
+                  <item>Counted by <hi>tens.</hi> Mood and <hi>tenſe.</hi> To dwel in <hi>tents.</hi> To pay the <hi>tenths.</hi>
+                  </item>
+                  <item>The fire-ſhovel and the <hi>tongs.</hi> Wee do often offend with our <hi>tongues.</hi>
+                  </item>
+                  <item>A <hi>trough</hi> for cattel to drink in. A <hi>trophie,</hi> as a token of victory.</item>
+                  <item>The firſt <hi>tome</hi> of a book. An epitaph upon a <hi>tombe.</hi>
+                  </item>
+                  <item>To bee <hi>toſt</hi> up and down. Make a <hi>toaſt</hi> for the ale.</item>
+                  <item>When <hi>thy thigh</hi> is out of joynt, ſend for the Surgeon.</item>
+                  <item>The ſcholar had more skil in a <hi>trope,</hi> than in a <hi>troop.</hi> (troup)</item>
+                  <item>
+                     <hi>Thou</hi> deſireſt to do it, <hi>though</hi> it bee to thy hinderance.</item>
+               </list>
+               <list>
+                  <head>U.</head>
+                  <item>The <hi>volley</hi> of ſhot, which they gave in the <hi>valley,</hi> was of litle <hi>value.</hi>
+                  </item>
+                  <item>When ſhee was in the <hi>vale,</hi> ſhee put a <hi>vail</hi> over her face.</item>
+                  <item>In al the long <hi>vacation,</hi> hee followed his <hi>vocation.</hi>
+                  </item>
+                  <item>The <hi>verges</hi> or brims of things. The <hi>verjuice</hi> and the vineger.</item>
+                  <item>His <hi>vitals</hi> began to fail for want of <hi>victuals.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>W.</head>
+                  <item>The <hi>wilde</hi>-man, was able to <hi>wield</hi> a great ſword.</item>
+                  <item>The dog was <hi>weary,</hi> when hee did <hi>wory</hi> the ſheep.</item>
+                  <item>
+                     <hi>Whether</hi> of theſe two wil yee have? <hi>Whither</hi> wil yee go?</item>
+                  <item>
+                     <pb n="17" facs="tcp:111249:11"/>By their ſubtil <hi>wiles,</hi> they drew them into the <hi>wildes.</hi>
+                  </item>
+                  <item>They took away the fiſher-mens <hi>weels,</hi> againſt their <hi>wils.</hi>
+                  </item>
+                  <item>The <hi>wines</hi> were al caſt away, by reaſon of the <hi>windes.</hi>
+                  </item>
+                  <item>The <hi>wick</hi> of a candle. The days in a <hi>week.</hi>
+                  </item>
+                  <item>Thou <hi>waſt</hi> unwiſe to make ſo much <hi>waſte.</hi>
+                  </item>
+                  <item>Hee did a <hi>wicked</hi> deed, in opening the <hi>wicket.</hi>
+                  </item>
+                  <item>Hee did <hi>wreſt</hi> his <hi>wriſt.</hi>
+                  </item>
+                  <item>The man that was in the <hi>wood,</hi> was almoſt <hi>woode.</hi>
+                  </item>
+                  <item>I <hi>wiſt</hi> not that he was there, but I <hi>wiſht</hi> that he might bee there.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Examples of ſome words, wherein one ſound is expreſt diverſe ways in writing.</head>
+               <p>
+                  <hi>Sea</hi>-ted, con-<hi>cei</hi>-ted, <hi>cea</hi>-ſing, <hi>ſei</hi>-zing, <hi>ſe</hi>-rious, <hi>Sce</hi>-va, <hi>ce</hi>-dar, Manaſ-<hi>ſeh</hi> Phari-<hi>ſee,</hi> Wool-<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>ſche</hi>-dule.</p>
+               <p>
+                  <hi>See</hi>-ded, ſuc-<hi>cee</hi>-ded, <hi>ſie</hi>-ſings, over-<hi>ſe</hi>-ers, pur-<hi>ſey</hi> or fat men, mer-<hi>cie,</hi> (or mer-<hi>cy</hi>)</p>
+               <p>
+                  <hi>Si</hi>-niſter, <hi>ſy</hi>-nagogue, <hi>Sci</hi>-pio, <hi>Scy</hi>-thian, <hi>Cy</hi>-prian, <hi>ci</hi>-vil, <hi>Ce</hi>-cil, <hi>Se</hi>-vern, pur-<hi>ſui</hi>-vant.</p>
+               <p>
+                  <hi>Si</hi>-lence, <hi>ci</hi>-ted, quick-<hi>ſigh</hi>-ted, <hi>ſig</hi>-ning, <hi>ſci</hi>-ence, <hi>ſy</hi>-ren, <hi>Cy</hi>-rene, ſa-<hi>ti</hi>-ety.</p>
+               <p>Theſe ſyllables aforegoing, may ſuffice, to give a taſte, of al the others in this kinde.</p>
+            </div>
+            <div type="part">
+               <head>Some ſpecial obſervations, very needful to bee known, for the help of <hi>True-writing.</hi>
+               </head>
+               <p>TAke heed that you never put a double conſonant with an <hi>e,</hi> in the end of any word: for there is no neceſſitie thereof. And the rather wee may be the bolder ſo to do, becauſe the Learned, both in Printing and Writing, do dayly practiſe it. Therefore, you muſt not write ſuch words as theſe, thus, <hi>ladde, bedde, lidde, rodde, budde,</hi> but thus, <hi>lad, bed, lid, rod, bud:</hi> and in like manner, you are to write al other words which end
+<pb n="18" facs="tcp:111249:12"/>
+with any other conſonant: as <hi>al, hal, bal, wal, gal, cal, ſtal:</hi> only for your ſatisfaction heerin, you are to know, that whenſoever <hi>a</hi> cometh before <hi>l,</hi> in the end of any word, it muſt bee pronounc't like <hi>au:</hi> and then, what need wil there be of a double <hi>l,</hi> in the word <hi>cal,</hi> when it ſignifieth as a verb, to <hi>cal,</hi> more than there is in <hi>caul,</hi> the ſubſtantive, when it ſignifieth a <hi>caul</hi> or tire to wear upon the head? Beſides, foraſmuch as wee uſe to write the word <hi>al,</hi> with a ſingle <hi>l,</hi> in <hi>al</hi>-moſt, and <hi>al</hi>-together, by the ſame reaſon, wee may aſwel write <hi>al</hi> with a ſingle <hi>l,</hi> when it is a ſimple word, as when it is compounded. Only in ſuch words, as end with <hi>f,</hi> or <hi>ſ,</hi> they are commonly writen, with <hi>a double f and an e,</hi> and with <hi>a double ſ and an e,</hi> as in <hi>chaffe</hi> and <hi>braſſe:</hi> yet I ſee no reaſon, why cuſtom ſhould bee offended, if the two words aforegoing were writen thus, <hi>chaf</hi> and <hi>braſ;</hi> &amp; ſo, al other words of this kinde: but I ſubmit my ſelf to the judgment of the Learned: and therefore, howſoever I have practiſed the ſame, in the Work aforegoing, yet I have withal, ſet do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n each word, as it is the other way writen, that ſo both ways may bee known.</p>
+               <p>Howſoever (as I ſaid before) there is no neceſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y, why a double con<g ref="char:EOLhyphen"/>ſonant with an <hi>e,</hi> ſhould bee put in the end of a word, yet for ſome Pro<g ref="char:EOLhyphen"/>per names, there is an exception, as in theſe two, <hi>Anne</hi> and <hi>Emme;</hi> but though they are ſo writen, they muſt bee pronounc't like <hi>An</hi> and <hi>Em.</hi>
+               </p>
+               <p>But I muſt not heer forget to tel you, that the obſervations aforego<g ref="char:EOLhyphen"/>ing, which were for the writing of a ſingle conſonant alwayes, in the end of a word, are meant onely of ſuch conſonants, whoſe forces are certainly known, and not of ſuch as are not: for there are ſome, whoſe forces are very uncertain, as <hi>g</hi> in <hi>tar-get,</hi> hath a different force from <hi>g,</hi> in the laſt ſyllable of <hi>gor-get:</hi> and therefore our cuſtom is, that whenſoever the force which <hi>g</hi> hath in the laſt ſyllable of <hi>gor-get,</hi> doth come in the end of any word, with a ſhort vowel before it, it is expreſt by <hi>dge,</hi> as in <hi>badge, ledge, ridge, lodge, judge:</hi> and not thus, <hi>bag, leg, rig, log, jug:</hi> for, the force which <hi>g</hi> hath in the laſt ſyllable of <hi>gor-get,</hi> is not expreſt in the latter words, but it is according to the force of <hi>g</hi> in <hi>tar-get.</hi> And therefore I wiſh, that every one would take ſpecial notice heerof, that they may ſee how needful it is, to have all the letters ſo diſtinguiſht, as that their ſounds and forces, might bee certainly known, the one from the other: for, then ſuch words as theſe, which were mentioned before, <hi>bag, leg, rig, log, jug,</hi> (if cuſtom would allow it) might be pronounc't, as if they were writen thus, <hi>badge, ledge, ridge, lodge, judge:</hi> but as for things of this kinde, I have ſpoken at large, in another Work, which I intend yer long to publiſh. As I have ſhewed before, how uncertain the force of <hi>g</hi> is in many
+<pb n="19" facs="tcp:111249:12"/>
+words, ſo alſo, I muſt ſpeak ſomething concerning the force of <hi>c,</hi> though it bee not altogether ſo uncertain as the other: for, <hi>c</hi> is always known to have the force of <hi>ſ,</hi> before <hi>e</hi> and <hi>i,</hi> and might wel bee ſo call'd, if it were diſtinguiſht accordingly; but <hi>c</hi> before any other letters, muſt bee pronounc't like <hi>k,</hi> and ought ſo to bee call'd: for, what difference is there between the force of <hi>c,</hi> in theſe Latine words, <hi>lac, nec, ſic, hoc, huc,</hi> and the force of <hi>ck,</hi> in theſe Engliſh words, <hi>lack, neck, ſick, lock, buck?</hi> yet you are to know, that our cuſtom is always to write <hi>ck,</hi> in the end of a word, whenſoever it cometh after a ſhort vowel; (as in the words before) except it bee after the vowel <hi>oo</hi> when it is ſhort, as in <hi>cook, hook, book,</hi> and the like. And now foraſmuch as the force of <hi>c</hi> and <hi>k,</hi> is al-one, and yet our cuſtom is to write them both, as in <hi>lack, neck, &amp;c.</hi> it may be demanded, which might beſt bee ſpared? To this I anſwer, that in regard of the force, which is proper to either of them, the one might be as well ſpared as the other; for, we might aſwel write <hi>lac</hi> as <hi>lak,</hi> and <hi>hac</hi> as <hi>hak;</hi> yet of the two it were better, to write <hi>lak</hi> than <hi>lac,</hi> and <hi>hak</hi> than <hi>bac,</hi> becauſe the force of <hi>k,</hi> is better known than <hi>c:</hi> but foraſmuch as cuſtom wil allow neither, we muſt (for the preſent) write both, as in <hi>lack, deck, lick, lock, luck:</hi> and ſo al others of this kinde.</p>
+               <p>And foraſmuch as it is our cuſtom, to expreſ the force of <hi>k,</hi> after a ſhort vowel by <hi>ck,</hi> I may fitly take occaſion heerby, to ſhew when <hi>que</hi> ought to bee writen, to expreſ (expreſſe) the force of <hi>k,</hi> in the end of a word, and the rather, becauſe it is ſo frequently uſed; as in <hi>Logique, Rhe<g ref="char:EOLhyphen"/>torique, Arithmetique, publique, Catholique,</hi> and the like: where there is no reaſon, why it ſhould bee writen in any of them, as alſo in many o<g ref="char:EOLhyphen"/>thers: The beſt help to know, how to write ſuch words, is to know thoſe words which are derived of them, for if we write <hi>Logician, Rhetori<g ref="char:EOLhyphen"/>cian, Arithmetician, publication,</hi> &amp;c. by the ſame reaſon, wee ought to write <hi>Logick, Rhetorick, Arithmetick, publick;</hi> and not <hi>Logique, Rhe<g ref="char:EOLhyphen"/>torique, &amp;c.</hi> But in ſome words we muſt write <hi>que</hi> for <hi>k,</hi> as in <hi>relique, oblique, traffique.</hi>
+               </p>
+               <p>You ought to obſerve alſo, that <hi>ch</hi> hath two ſeveral forces belonging thereto, the one properly belongs to Engliſh words, and the other to Hebrew and Greek: or to ſuch Engliſh words as are borowed from thence. The force which <hi>ch</hi> hath in Engliſh words, is expreſt in the beginning of theſe words, namely, in <hi>charge, cheſt, chip, chop, chalk, choak, choſe, chooſe, churn.</hi> But when the force which <hi>ch</hi> hath, in the words afore<g ref="char:EOLhyphen"/>going, dooth come in the end of a word, after a ſhort vowel, it is ex<g ref="char:EOLhyphen"/>preſt by <hi>tch:</hi> as in theſe examples, namely, in <hi>catch, fetch, ditch, botch, hutch.</hi> Theſe words onely are excepted, namely, <hi>rich, which, ſuch, much:</hi>
+                  <pb n="20" facs="tcp:111249:13"/>
+and alſo the word <hi>touch,</hi> which is to bee pronounc't ſhort like <hi>tuch.</hi>
+               </p>
+               <p>The force which <hi>ch</hi> hath in Hebrew and Greek words, or in ſuch Eng<g ref="char:EOLhyphen"/>liſh words, as are borowed from thence, are expreſt in theſe examples, namely, in <hi>Cha-os, Che-dor-la-o-mer, Al-chy-miſt, choler, cholerick, ſchool, ſcholars, character, Chriſt, Chriſtian, Chro-ni-cle, eccho, Eunuch,</hi> (which is pronounc't by many like <hi>Evnuke:) Shadrach, Lamech, Enoch, Ach-ſah, me-cha-ni-cal, Mo-narch, Mo-nar-chie, ſe-pul-chre,</hi> or <hi>ſe-pul-cher, Arch-angel, Mel-chi-ſe-de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h:</hi> Yea, whereſoever <hi>ch</hi> is writen, in the names either of men, women, or places, thorowout the Old or New Teſtament, it muſt always bee pronounc't like <hi>k:</hi> as alſo, in al other words whatſoever, which are borowed, either from the Hebrew or Greek: a fewe onely ex<g ref="char:EOLhyphen"/>cepted, which cuſtom hath exempted; as namely, <hi>Ra-chel</hi> in the Old Teſtament, where the laſt ſyllable thereof is pronounc't like the laſt ſyl<g ref="char:EOLhyphen"/>lable in <hi>ſa-chel:</hi> but I rather think, if the pronunciation thereof muſt not bee according to the other words, it ought to bee pronounc't thus, <hi>Ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hel.</hi> The word <hi>Che-ru-bin</hi> is alſo excepted. And in the New Teſta<g ref="char:EOLhyphen"/>ment <hi>Ty-chi-cus:</hi> and no more do I remember. Likewiſe <hi>ch</hi> in <hi>Architect,</hi> muſt not bee pronounc't like <hi>k:</hi> nor in any word beginning with <hi>arch,</hi> as <hi>Arch-duke, arch-enemy,</hi> and the like: <hi>Arch-angel</hi> (as I have ſhewed be<g ref="char:EOLhyphen"/>fore) is onely excepted.</p>
+               <p>It is alſo needleſ, (needleſſe) to put a double conſonant in the midle of ſuch words as theſe, namely, in <hi>ſaddle, meddle, fiddle, cobble, bubble:</hi> but rather write them thus, <hi>ſadle, medle, fidle, coble, buble:</hi> for what uſe is there of a double <hi>b,</hi> in <hi>bubble,</hi> more than there is in <hi>double</hi> and <hi>trouble?</hi>
+               </p>
+               <p>I give you farther to underſtand, that if the vowels were ſo diſtinguiſht one from another, as that their ſounds might bee certainly known, when they are long, and when they are ſhort, there is no neceſſitie that any word whatſoever, ſhould have a double conſonant, either in the midle, or any part of it, unleſ it bee to ſhewe the Etymologie thereof: and this may plainly appeare, even by our own practice, in the writing of many Engliſh words: as for example, what uſe is there of a double: in <hi>dittie,</hi> more than there is in <hi>Citie;</hi> or of a double <hi>d</hi> in <hi>ruddy,</hi> more than in <hi>ſtudie;</hi> or of a double <hi>d</hi> in <hi>ſodden,</hi> more than there is in <hi>troden?</hi> But foraſmuch as our vowels are not ſo diſtinguiſht, as to know when they are long and when they are ſhort, wee are inforc't to uſe a double con<g ref="char:EOLhyphen"/>ſonant, where a ſingle might ſerve: as for example, theſe two words, <hi>fill'd</hi> and <hi>fil'd,</hi> as they are expreſt in <hi>fill'd</hi> up to the brim, and <hi>fil'd</hi> with a file, they might either of them, bee writen with a ſingle l, if their vowels were ſo diſtinguiſht, that the long vowel in the one word, might bee known from the ſhort vowel in the other: as alſo, theſe two words,
+<pb n="21" facs="tcp:111249:13"/>
+                  <hi>pinn'd</hi> and <hi>pin'd,</hi> might either of them bee writen with a ſingle <hi>n,</hi> if there were the like diſtinction. Multitudes of examples might bee given in this kinde, but theſe may ſuffice.</p>
+               <p>But although the ſounds of our vowels, are not ſo diſtinguiſht one from another, as they ſhould bee, yet I ſee no reaſon, why <hi>a double</hi> l, ſhould bee writen, in any derivative word, where the vowel in the ſimple word, is known by cuſtom, to bee long of it ſelf, as for example, in theſe three ſimple words, namely, <hi>cal, wal, fal,</hi> where the vowel <hi>a</hi> is wel known to have the ſound of <hi>au:</hi> and therefore, why may not theſe three deriva<g ref="char:EOLhyphen"/>tives, <hi>ca-ling, wa-ling,</hi> and <hi>fa-ling,</hi> bee ſo writen; foraſmuch as their ſyllables are to bee pronounc't, like <hi>cau-ling, wau-ling,</hi> and <hi>fau-ling?</hi> Again, foraſmuch as the ſound of <hi>o,</hi> is wel known to bee long <hi>before</hi> I, in the end of many ſimple words, as in <hi>roll, poll, toll,</hi> which may as wel bee writen thus, <hi>rol, pol, tol,</hi> why may not their derivatives bee writen thus, <hi>ro-ling, to-ling, po-ling?</hi> But heerin, (as in other things before) I ſubmit my ſelf to the judgement of the Learned.</p>
+               <p>You are to know alſo, that whenſoever <hi>e</hi> cometh in the end of any Engliſh word whatſoever, except the article <hi>the,</hi> it hath no uſe for ſound of it ſelf; and therefore might bee altogether left out, if wee had long vowels to expreſ our words withal: but foraſmuch as this is wanting, wee are inforc't to make uſe of <hi>e</hi> in the end of a word, to ſhewe there<g ref="char:EOLhyphen"/>by, the vowel going before to bee long: as in theſe words, <hi>vale, male, mane, mare;</hi> to diſtinguiſh them from <hi>val, mal, man, mar:</hi> as alſo in theſe words, <hi>wine</hi> and <hi>wile,</hi> to diſtinguiſh them from <hi>win</hi> and <hi>wil;</hi> whoſe vowels are ſhort. But it were to bee wiſht, that the vowels might bee ſo diſtinguiſht, as that their ſounds might bee certainly known, to bee long of themſelves, without any other help. And ſurely, in ſome caſes, there is an abſolute neceſſitie for the doing of it; if wee deſire that there ſhould bee any certaintie in the pronouncing of our words<g ref="char:punc">▪</g> an ex<g ref="char:EOLhyphen"/>ample thereof, you may ſee in theſe two words, <hi>win-der,</hi> and <hi>wil-der,</hi> where the firſt ſyllable in either of them muſt bee pronounc't long, as in <hi>wine,</hi> and <hi>wile:</hi> The neglect of diſtinguiſhing the long vowels from the ſhort, is the cauſe, why many words are pronounc't two ſeveral ways: for ſome men cal the <hi>winde,</hi> the <hi>wind;</hi> and ſo accordingly, they miſpro<g ref="char:EOLhyphen"/>nounce the derivatives of the ſame word. Again, in the word <hi>wil-der,</hi> the firſt ſyllable thereof, muſt bee pronounc't like the word <hi>wile,</hi> but in the word <hi>wil-der-neſ,</hi> it muſt bee pronounc't like <hi>wil.</hi> What great uncertain<g ref="char:EOLhyphen"/>tie is this for the learner! And how great a benefit might the whole Nation receive thereby, if theſe things were amended! I wiſh therefore, that al ſuch as love Learning, would take this into their ſerious conſide<g ref="char:EOLhyphen"/>ration.</p>
+               <p>
+                  <pb n="22" facs="tcp:111249:14"/>Thus much have I thought good to ſpeak, by way of digreſſion. And now I return again to my former diſcourſe, concerning the uſe of <hi>e</hi> in the end of a word, which (as I ſaid before) is onely uſeful, to ſhewe the vowel to be long which went before: and therefore, in al ſuch words, where the vowel or the diphthong, that went before, is wel known to bee long of it ſelf, what need wil there be of an <hi>e,</hi> in the end thereof? As for example, in theſe words, <hi>lead, laud, ſeed, fool, pail, void, cloud,</hi> and the like, the vowels and diphthongs, are ſo wel known to bee long, of themſelves, as that there needs no <hi>e</hi> in the end, to make them known. Nevertheleſ, you are to obſerve, that there are many words, wherein ſuch vowels are, which are commonly known to bee long in the moſt words, and yet in ſome, they are to bee pronounc't ſhort, as in theſe words, <hi>head, read, ſtead, hea-dy, rea-dy, ſtea-dy,</hi> and ſuch like: it is there<g ref="char:EOLhyphen"/>fore (for the preſent) very meet, to put an <hi>e</hi> in the end of ſome ſuch words, as in <hi>reade,</hi> the preſent tenſe, to diſtinguiſh it from the ſhort ſound of <hi>read,</hi> the preterimperfect tenſe. Alſo, there is no need of an <hi>e,</hi> in the end of ſuch words, as <hi>harm, learn, corn, burn, part, hurt, hand, bound hang, thing, ſing, ſong, hung,</hi> and ſuch like: You are therefore to bee care<g ref="char:EOLhyphen"/>ful, that you never put an <hi>e,</hi> in the end of any ſuch words as theſe a<g ref="char:EOLhyphen"/>foregoing, but ſpecially, in the latter words, whereof the word ſing, is one, for, if you ſhould put an <hi>e,</hi> to the end of it, it would alter the ſenſe thereof, and make it in ſtead of ſing, to become ſinge. Alſo, it is to bee obſerved, that where it is not needful to uſe <hi>e,</hi> in the end of the ſin<g ref="char:EOLhyphen"/>gular number, it ſhall not bee needful, to uſe <hi>e</hi> in the plural, and there<g ref="char:EOLhyphen"/>fore the plurals are to bee writen thus, <hi>ſeeds, fools, pails, clouds, harms, parts, bands, bands, bounds, things, ſongs, rings, ſtrings, ſwings:</hi> but not thus, <hi>ſeedes, fooles, pailes, cloudes, harmes, partes, handes, bandes, boundes, thinges, &amp;c.</hi> In ſuch words as theſe aforegoing, cuſtom hath already given way, for the leaving out of <hi>e</hi> in the end, and therefore wee may boldly practiſe it. But there are diverſe words, which as yet would ſeem ſtrange, and therefore, for cuſtoms ſake wee uſe it, although there bee no more ne<g ref="char:EOLhyphen"/>ceſſity, for the uſing of it in theſe words, than was in the former: as in <hi>fee-ble, ſtee-ple, nee-dle, tem-ple, peo-ple,</hi> and ſuch like. And heer it may bee obſerved, from ſuch ſyllables as theſe aforegoing, that ſome kinde of ſyl<g ref="char:EOLhyphen"/>lables, may bee expreſt without a vowel: for, what uſe hath <hi>e</hi> for ſound in the laſt ſyllable of the word <hi>fee-ble?</hi> And therefore, if cuſtom would give way thereto, ſuch words, might rather bee writen thus, <hi>fee-ble, ſtee-pl, nee-dl, tem-pl, peo-pl.</hi> And heer by the way, wee may take it into con<g ref="char:EOLhyphen"/>ſideration, whether <hi>o</hi> in <hi>peo-ple,</hi> were not better to bee left out, and the word to bee writen thus, <hi>pee-ple.</hi>
+               </p>
+               <p>
+                  <pb n="23" facs="tcp:111249:14"/>There bee alſo, many other words, wherein <hi>e</hi> might very wel bee ſpared, as in <hi>give, live, ſive,</hi> and the like; for, the vowel which went before in either of them is ſhort, and therefore needs no <hi>e</hi> in the end, to ſhewe it to bee long: ſuch words therefore might bee writen thus, <hi>giv, liv, ſiv.</hi> As alſo, ſuch words as theſe, <hi>mouſe, houſe,</hi> and the like, foraſmuch as the diphthong going before, in either of them, is wel known to bee long of it ſelf, what need is there of an <hi>e</hi> in the end, to make it known? The words therefore, they might bee writen thus, <hi>mouſ, houſ,</hi> and ſo, al other words of this kinde. But I leave theſe things to the conſideration of the Learned.</p>
+               <p>You ought alſo to obſerve, that it is not needful to write <hi>e</hi> after <hi>y,</hi> in the end of any word: becauſe <hi>y,</hi> wil ſerve ſufficiently of it ſelf, to expreſ the ſound of <hi>ie</hi> in the end of a word, as <hi>y</hi> in <hi>cry,</hi> is wel known to ex<g ref="char:EOLhyphen"/>preſ the like ſound as <hi>ie</hi> doth in <hi>crie:</hi> and therefore we ought not to write <hi>crye, trye, &amp;c.</hi>
+               </p>
+               <p>It is alſo very needful, for the help of True-writing, that you diligent<g ref="char:EOLhyphen"/>ly obſerve, when you are to write <hi>y,</hi> for <hi>i</hi> the vowel: underſtand therefore in the firſt place, that it ought moſt naturally, and truly to bee writen, in al ſuch words as are borowed of the Greek, as <hi>Synagogue, Phyſician, hy<g ref="char:EOLhyphen"/>pocrite, myſtery,</hi> and ſuch like. But foraſmuch as cuſtom hath received it, and withal the Learned do ſo frequently practiſe it, I ſee no reaſon, why wee may not uſe it for a vowel, as formerly we have done: for, in many words (according to our cuſtom in writing) it is, as if it were natural<g ref="char:EOLhyphen"/>liz'd, as in <hi>my, by, thy, why:</hi> for theſe words are always ſo writen: but in many other words, they are differently writen: as for example, ſome write thus, <hi>die, tie, lie, ſtie, crie, ſpie:</hi> and ſome write thus, <hi>dy, ty, ly, ſty, cry, ſpy:</hi> for mine owne part, I think, that both theſe ways of writing, may ſtil bee reteined: yet ſo, as that the firſt ſort may bee conſtantly uſed for nouns, and the laſt for verbs, for in ſo doing, by adding <hi>s,</hi> to the firſt ſort, they wil become nouns of the plural number: as <hi>die dies, tie ties, lie lies, ſtie ſties, crie cries, ſpie ſpies:</hi> and by adding <hi>ing,</hi> to the laſt ſort, which are verbs, they wil become participles: as <hi>dy dy-ing, ty ty-ing, ly ly-ing, ſty ſty-ing, cry cry-ing, ſpy ſpy-ing.</hi> As for <hi>y,</hi> which is uſed for a vowel, in the diphthong <hi>ay,</hi> foraſmuch as it is ſo conſtantly uſed, in the end of a word, as in <hi>may, lay, ſay, day, way, pay:</hi> it may therefore, be conſtantly uſed, both in nouns and verbs: and not onely, in the ſingular number of a noun, but alſo in the plural, as <hi>day days, way ways, ſtay ſtays:</hi> and it is not onely to bee uſed before <hi>ing,</hi> as in <hi>ſtay-ing,</hi> but alſo before <hi>eth</hi> as in <hi>ſtayeth,</hi> and be<g ref="char:EOLhyphen"/>fore <hi>ed</hi> as in <hi>ſtayed:</hi> and ſo in al other words, which have the like end<g ref="char:EOLhyphen"/>ings.</p>
+               <p>
+                  <pb n="24" facs="tcp:111249:15"/>It is our cuſtom in writing, to uſe <hi>y</hi> for <hi>i,</hi> in multitudes of words: yea I think, that there is ſcarcely any word (not beeing a ſubſtantive) that, ends in <hi>i,</hi> but may (according to our cuſtom) bee writen with <hi>y:</hi> as <hi>tary, cary, very, weary, heady, ready, fully, happy, truſty, luſty:</hi> and what not?</p>
+               <p>It is very meet therefore, that any word, which is a ſubſtantive, ſhould never end in <hi>y,</hi> but always in <hi>ie,</hi> as <hi>Citie, dittie, treatie, bellie:</hi> and ſo al others, ſave onely in ſome words, where <hi>l</hi> and <hi>n</hi> went before: as in <hi>alley, valley, journey, Atturney,</hi> and the like. Any of theſe words afore<g ref="char:EOLhyphen"/>going, by putting <hi>s</hi> to the end, wil make nouns of the plural number, as <hi>Citie Cities, dittie ditties, treatie treaties, bellie bellies, alley alleys, valley val<g ref="char:EOLhyphen"/>leys, journey journeys, Atturney Atturneys:</hi> and ſo in al others whatſoever, of either kinde.</p>
+               <p>Thus much may ſuffice to have ſpoken, concerning <hi>y,</hi> when it is to bee uſed for a vowel in the end of a word: and now it wil bee expected, that I ſhould ſhewe alſo when it ought to bee writen, both in the beginning and the midle of a word: I deſire therefore, that I may give ſatisfaction heerin: for I am not ignorant, that ſome are very much affected, with the writing of <hi>y,</hi> for <hi>i,</hi> in the beginning of ſome words, as in <hi>yron, ydel, ynow, ynough, ynke, ynck, ynckling,</hi> with diverſe others: but the words a<g ref="char:EOLhyphen"/>foregoing, ought to bee writen thus, <hi>iron, idol, inow, inough, ink, inch, inkling:</hi> and heer withal I give you to underſtand, that it is not needful, to put <hi>y</hi> for <hi>i,</hi> in the beginning of any Engliſh whatſoever; except it bee in ſuch a word, that is borowed from the Hebrew, or Greek, which for the preſent, I know none.</p>
+               <p>Some doe alſo uſe <hi>y</hi> for <hi>i,</hi> in the midle of many words, as in <hi>gyant, ſythe, tythe, hyde, tyde:</hi> which ought to be writen thus, <hi>giant, ſithe, tithe, hide, tide:</hi> and heer alſo, you are to take notice, that it is not needful to put <hi>y</hi> for <hi>i,</hi> in the midſt of any Engliſh word whatſoever: except it bee in ſuch a word, that is borowed from the Greek: as I have ſhewed before, in the beginning of this diſcourſe, concerning <hi>y.</hi>
+               </p>
+               <p>It is alſo very needful to know, how words are to bee writen, when they end with the ſound of a diphthong: you are to obſerve therefore, that al words which end with the ſound of <hi>eu,</hi> are writen with <hi>ew:</hi> as <hi>few, hew, dew:</hi> and they are expreſt alſo in theſe three words, <hi>few-er, hew-er, dew-lap.</hi> Such words as end with the ſound of <hi>oi,</hi> are writen with <hi>oy,</hi> as <hi>boy, joy, coy, toy,</hi> and ſuch like.</p>
+               <p>Such words as end with the ſound of <hi>ou,</hi> are writen with <hi>ow,</hi> as <hi>how, now, cow, ſow, bow, vow;</hi> and ſuch like. The pronoun <hi>thou,</hi> is onely excepted; and ſuch words as end in <hi>ough</hi> (where <hi>gh</hi> is not pronounc't) as <hi>bough, ſlough,</hi> and ſuch like.</p>
+               <p>
+                  <pb n="25" facs="tcp:111249:15"/>Two of the words aforegoing, namely, <hi>ſow</hi> and <hi>bow,</hi> are differently pronounc't, as in theſe examples, A <hi>ſow</hi> and her <hi>pigs.</hi> To <hi>ſow</hi> the ſeed. To <hi>bow</hi> the knee. A <hi>bow</hi> to ſhoot withal.</p>
+               <p>The ſounds of al ſuch words, as theſe aforegoing, which are ſo un<g ref="char:EOLhyphen"/>certain, they might (for the preſent) bee ſo diſtinguiſht, as to make them better known than now they are: that is, by putting an <hi>e</hi> in the end of one of them: as in theſe examples, The <hi>ſow</hi> cannot <hi>ſowe.</hi> Hee cannot <hi>bow</hi> the <hi>bowe.</hi>
+               </p>
+               <p>But there are many words which (for the preſent) cannot bee ſo diſtin<g ref="char:EOLhyphen"/>guiſht, as to make them known the one from the other, as in theſe exam<g ref="char:EOLhyphen"/>ples, Hee did <hi>uſe</hi> it for a good <hi>uſe.</hi> Hee did <hi>excuſe</hi> himſelf with a bad <hi>excuſe.</hi> Hee did offer mee a great <hi>abuſe,</hi> to <hi>abuſe</hi> mee ſo.</p>
+               <p>Alſo, there are many words writen alike, without any diſtinction, which differ onely in the accent, that is, in the lifting up of the voice in one ſyl<g ref="char:EOLhyphen"/>lable higher than in another, as in theſe examples, A <hi>convert.</hi> To <hi>convert.</hi> A <hi>rebel.</hi> To <hi>rebel.</hi> The <hi>incenſe.</hi> To <hi>incenſe.</hi> Wherein you may obſerve, that any word writen alike, conſiſting of two ſyllables, which may have <hi>a</hi> or <hi>the,</hi> put before it, the firſt ſyllable thereof, is to be lifted up: and that which cannot, the latter ſyllable thereof is to be lifted up. As alſo, the like may bee obſerved, for any other words of two ſyllables, which are not alike in writing.</p>
+               <p>Some words there be, which are alike, both in their writing and ſound, and yet differ in their ſignification: as in theſe examples, The water in the <hi>wel,</hi> wil make him <hi>wel.</hi> The bel-<hi>weather,</hi> was in the fields with the ſheep, in foul <hi>weather.</hi>
+               </p>
+               <p>There bee ſome words, diverſly writen and ſounded, in the ſame ſenſe, as in theſe examples, namely, <hi>enquire</hi> and <hi>inquire, enform</hi> and <hi>inform, en<g ref="char:EOLhyphen"/>cline</hi> and <hi>incline, endite</hi> and <hi>indite, &amp;c.</hi> It were to be wiſht, that there were a greater uniformitie, both in our ſpeaking and writing, not onely in words of this kinde, but alſo in many others. But it may bee demanded of mee, for ſuch words as theſe aforegoing. Which is the beſt way for the true pronouncing and writing of them? To this I anſwer. That if any derivative words bee commonly writen and pronounc't with <hi>i</hi> in the beginning, wee may conclude from thence, that their primitives ought to bee ſo pronounc't and writen alſo. But theſe two words, <hi>inquiſition</hi> and <hi>inclination,</hi> bee always both writen and pronounc't with <hi>i,</hi> by the ſame reaſon, wee ought to pronounce and write, <hi>inquire</hi> and <hi>incline,</hi> and not <hi>enquire</hi> and <hi>encline.</hi> The like may bee ſaid for al other words of this kinde: and therefore in ſtead of <hi>en,</hi> wee ought always to write <hi>in.</hi>
+               </p>
+               <p>
+                  <pb n="26" facs="tcp:111249:16"/>You ought to obſerve alſo, that al words of more than one ſyllable, ending in this ſound <hi>us,</hi> (according to our cuſtom) they are writen with <hi>ous,</hi> but pronounc't like <hi>us,</hi> as in <hi>glo-ri-ous, ver-tu-ous, righ-te-ous,</hi> and the like. But if <hi>ly</hi> or <hi>neſ,</hi> bee added to ſuch words, the ſound of <hi>us,</hi> is writen with <hi>ouſ,</hi> as in <hi>glori-ouſ-ly, ver-tu-ouſ-ly, righ-te-ouſ-neſ. &amp;c.</hi> But al words of one ſyllable, that end in <hi>us,</hi> are writen thus, <hi>us, thus,</hi> and <hi>truſ.</hi> (or truſſe)</p>
+               <p>In ſome words before ſome letters, you are to obſerve that <hi>a,</hi> is to bee pronounc't like <hi>au,</hi> and to be writen in ſtead thereof, as in theſe words, namely, in <hi>bald, ſcald;</hi> as alſo, in <hi>mult, halt, ſalt, ſhalt.</hi>
+               </p>
+               <p>Alſo, you are to obſerve, that it is our cuſtom, to pronounce <hi>al,</hi> like <hi>au,</hi> and to write it in ſtead thereof: as in <hi>balk, walk, talk, ſtalk, chalk, malkin, calkin, calkers, falcons;</hi> as alſo, in <hi>almond, alms, halm, balm, palm, calm, ſhalm, pſalm, malmſey:</hi> and in like maner, it is uſed in theſe words, namely, in <hi>calf, half, ſalve, ſalves, calve, calves, halve, halves:</hi> as al<g ref="char:EOLhyphen"/>ſo in <hi>ſcalp, ſcalps.</hi> And as <hi>al,</hi> is writen for <hi>au</hi> in the roots, ſo it is to bee in the branches, and alſo, to bee pronounc't accordingly, as in <hi>halving, calving, ſalving, balking, walking, &amp;c.</hi>
+               </p>
+               <p>You muſt obſerve alſo, that the ſound of <hi>ee,</hi> before ſome letters, is ex<g ref="char:EOLhyphen"/>preſt by <hi>ie,</hi> as in <hi>field, wield, ſhield, ſiel'd, Prieſt, piece, grief, grieve, thief, thieve, chief, atchieve, brief, relieve, relief, ſiege, liege, Pierce, fierce, biere, Lieu<g ref="char:EOLhyphen"/>tenant,</hi> which is to be pronounc't like <hi>Lief-tenant.</hi>
+               </p>
+               <p>It is to bee obſerved alſo, that when a word ends in <hi>ence,</hi> if it bee a noun, it is uſually writen with <hi>ce</hi> in the end, as a <hi>fence,</hi> and a <hi>recompence:</hi> but if it bee a verb, it is writen with <hi>ſe</hi> in the end, as to <hi>fenſe,</hi> and to <hi>re<g ref="char:EOLhyphen"/>compenſe:</hi> and in words of other endings accordingly; as a <hi>practice,</hi> to <hi>practiſe,</hi> and the like.</p>
+               <p>Take notice alſo, that al compound words, wherein <hi>ſh, th,</hi> or <hi>ph,</hi> is wri<g ref="char:EOLhyphen"/>ten, they ought to bee divided thus, as <hi>houſ-hold, falſ-hood, goſ-hawk, graſ-hopper, diſ-honeſt, diſ-honour, miſ-hap:</hi> and not thus, <hi>houſhold, falſhood, &amp;c.</hi> So likewiſe, <hi>Prieſt-hood, Neat-herd,</hi> and not <hi>Prieſthood, Neatherd:</hi> Alſo, <hi>Shep-herd, up-hold, <g ref="char:V">Ʋ</g>p-holſter,</hi> and not <hi>Shepherd, uphold, <g ref="char:V">Ʋ</g>pholſter.</hi>
+               </p>
+               <p>This one thing alſo, (both for the True-pronouncing, and Wri<g ref="char:EOLhyphen"/>ting of Engliſh) in a ſpecial maner ought to bee obſerved, namely, that moſt of our Engliſh words (as they are commonly pronounc't) are mo<g ref="char:EOLhyphen"/>noſyllables: for, howſoever wee uſe to Write thus, <hi>leadeth</hi> it, <hi>maketh</hi> it, <hi>noteth</hi> it, <hi>raketh</hi> it, per-<hi>fumeth</hi> it, <hi>&amp;c.</hi> Yet in our ordinary ſpeech (which is beſt to bee underſtood) wee ſay, <hi>leads</hi> it, <hi>makes</hi> it, <hi>notes</hi> it, <hi>rakes</hi> it, <hi>per<g ref="char:EOLhyphen"/>fumes</hi> it. Yea, cuſtom hath ſo far prevailed in this kinde, not onely, with the Learned in their Writings, but alſo, with the Preſ: (Preſſe) as it may moſt plainly appear, by many wel-Printed Books, now extant.
+<pb n="27" facs="tcp:111249:16"/>
+Therefore, whenſoever <hi>eth,</hi> cometh in the end of any word, wee may pro<g ref="char:EOLhyphen"/>nounce it ſometimes as <hi>s,</hi> &amp; ſometimes like <hi>z,</hi> as in theſe words, namely, in <hi>bolteth</hi> it, and <hi>holdeth</hi> it, which are commonly pronounc't, as if they were writen thus, <hi>bolts</hi> it, and <hi>holds</hi> it: ſave onely in ſuch words, where either <hi>c, ſ, ſh, ch, g,</hi> or <hi>x</hi> went before it: as in <hi>graceth, pleaſeth, waſh<g ref="char:EOLhyphen"/>eth, matcheth, rageth, taxeth:</hi> for, theſe muſt ſtill remaine as two ſylla<g ref="char:EOLhyphen"/>bles. Howbeit, if men did take notice, how they uſe to ſpeak, in their ordinary ſpeech one to another, they might plainly perceive, that in ſtead of <hi>graceth,</hi> they ſay <hi>graces,</hi> and ſo they pronounce al other words of this kinde, accordingly: But I leave this, as alſo, many other things to the conſideration of ſuch, as are judicious: hoping that they wil take in good part, whatſoever hath bin done, in the Work aforegoing: that ſo, I may bee incouraged yer long, to publiſh a far greater, where<g ref="char:EOLhyphen"/>in ſuch things as have bin heer omitted, ſhal bee ſpoken of at large. In the mean time (for a concluſion) I have thought it good, to give a taſte thereof, in the ſyllables and words following; wherein are expreſt the true ſounds of al the vowels and diphthongs, which are proper to the Engliſh-tongue.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">The true ſounds of al the ſhort and long vowels, are expreſt in theſe examples.</cell>
+                        <cell role="label">The true ſounds of al the diphthongs, are expreſt in theſe examples.</cell>
+                     </row>
+                     <row>
+                        <cell>ad lad — ade lade.</cell>
+                        <cell>ai day.</cell>
+                     </row>
+                     <row>
+                        <cell>ed led — ead lead.</cell>
+                        <cell>eu dew.</cell>
+                     </row>
+                     <row>
+                        <cell>id rid — eed reed. ide ride.</cell>
+                        <cell>oi coy.</cell>
+                     </row>
+                     <row>
+                        <cell>od lod — aud laud. oad load.</cell>
+                        <cell>oi coi—ners.</cell>
+                     </row>
+                     <row>
+                        <cell>ud gud ude gude.</cell>
+                        <cell>ou cow.</cell>
+                     </row>
+                     <row>
+                        <cell>ood good — ood food.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>THe firſt line in the fourth page, ſhould have bin plac't in the firſt page with A. and therefore, the word <hi>eight,</hi> which is the third word therein, muſt bee pronounc't like <hi>ait.</hi> In the ſeventh page, in the laſt line thereof, the ſecond word therein which is <hi>caught,</hi> it ſhould have bin <hi>taught.</hi> In the ſecond line of the eightth page, the third word therein, which is <hi>rode,</hi> muſt bee pronounc't like <hi>rod.</hi> In the firſt line in the thirteenth page, in ſome Copies, in the ſeventh word therein, which ſhould have bin <hi>jerkin,</hi> is <hi>jerking.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
